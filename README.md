@@ -1,5 +1,7 @@
 # something
-## 授权
+## 授权 | LICENSE
+[ENGLISH VERSION](LICENSE) of the LICENSE
+
 一、您被授权可以进行以下行为：
 
   (1) 预览、查看、下载本存储库文件 
