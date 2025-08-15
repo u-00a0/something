@@ -1,0 +1,124 @@
+[Script Info]
+; 辉光字幕组样式模板
+; https://github.com/Kilo19/NixieVideoKit
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,8,1
+Style: 辉中,文泉驿微米黑,45,&H00FFFFFF,&H000000FF,&H006E4216,&H00000000,-1,0,0,0,100,100,0.5,0,1,2.8,0.2,2,0,0,10,1
+Style: 辉英,Tahoma,35,&H00FFFFFF,&H000000FF,&H003B3C3D,&H00000000,0,0,0,0,100,100,1,0,1,2.8,0.2,2,0,0,10,1
+Style: 辉注,文泉驿微米黑,36,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,1,0,1,3,0.7,9,10,10,10,1
+Style: LTT intro,Noto Sans CJK SC Medium,60,&H00494949,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:19.00,0:00:22.73,辉英,,0,0,0,,I'll stand on the edge of the world
+Dialogue: 0,0:00:19.00,0:00:22.73,辉中,,0,0,0,,我将立于世界边缘
+Dialogue: 0,0:00:23.38,0:00:27.11,辉英,,0,0,0,,Feel something that can't be ignored
+Dialogue: 0,0:00:23.38,0:00:27.11,辉中,,0,0,0,,察觉难以忽视之谜
+Dialogue: 0,0:00:27.13,0:00:29.69,辉英,,0,0,0,,What are we up against?
+Dialogue: 0,0:00:27.13,0:00:29.69,辉中,,0,0,0,,我们面临着什么？
+Dialogue: 0,0:00:29.72,0:00:32.56,辉英,,0,0,0,,What are we fighting for?
+Dialogue: 0,0:00:29.72,0:00:32.56,辉中,,0,0,0,,我们在为何物奋战
+Dialogue: 0,0:00:36.72,0:00:39.58,辉英,,0,0,0,,It's bigger than us
+Dialogue: 0,0:00:36.72,0:00:39.58,辉中,,0,0,0,,祂宽阔无疆
+Dialogue: 0,0:00:39.60,0:00:41.74,辉英,,0,0,0,,It's only begun
+Dialogue: 0,0:00:39.60,0:00:41.74,辉中,,0,0,0,,祂于此初降
+Dialogue: 0,0:00:41.77,0:00:44.03,辉英,,0,0,0,,When dark meets the light
+Dialogue: 0,0:00:41.77,0:00:44.03,辉中,,0,0,0,,于光暗交汇之刻，
+Dialogue: 0,0:00:44.06,0:00:46.01,辉英,,0,0,0,,it burns like the sun
+Dialogue: 0,0:00:44.06,0:00:46.01,辉中,,0,0,0,,它如烈阳般燃烧
+Dialogue: 0,0:00:46.03,0:00:48.84,辉英,,0,0,0,,It's bigger than us
+Dialogue: 0,0:00:46.03,0:00:48.84,辉中,,0,0,0,,祂宽阔无疆
+Dialogue: 0,0:00:48.86,0:00:53.35,辉英,,0,0,0,,It's only begun
+Dialogue: 0,0:00:48.86,0:00:53.35,辉中,,0,0,0,,生长不息
+Dialogue: 0,0:00:53.72,0:00:55.74,辉英,,0,0,0,,So hold on,
+Dialogue: 0,0:00:53.72,0:00:55.74,辉中,,0,0,0,,瞧吧
+Dialogue: 0,0:00:55.77,0:00:58.15,辉英,,0,0,0,,We're lighting up the sky
+Dialogue: 0,0:00:55.77,0:00:58.15,辉中,,0,0,0,,我们正点亮星空
+Dialogue: 0,0:00:58.18,0:01:00.13,辉英,,0,0,0,,Hold on
+Dialogue: 0,0:00:58.18,0:01:00.13,辉中,,0,0,0,,坚持不懈
+Dialogue: 0,0:01:00.16,0:01:02.06,辉英,,0,0,0,,Right here our worlds collide
+Dialogue: 0,0:01:00.16,0:01:02.06,辉中,,0,0,0,,于此，我们的世界相撞
+Dialogue: 0,0:01:03.03,0:01:09.11,辉英,,0,0,0,,Oh, you know it's far from the end of the battle cry
+Dialogue: 0,0:01:03.03,0:01:09.11,辉中,,0,0,0,,你心知肚明，这远非战斗终结之时
+Dialogue: 0,0:01:09.13,0:01:11.61,辉英,,0,0,0,,Now it's our time
+Dialogue: 0,0:01:09.13,0:01:11.61,辉中,,0,0,0,,此为我们登台之时
+Dialogue: 0,0:01:11.63,0:01:13.22,辉英,,0,0,0,,We own the light
+Dialogue: 0,0:01:11.63,0:01:13.22,辉中,,0,0,0,,执掌星光
+Dialogue: 0,0:01:13.66,0:01:17.55,辉英,,0,0,0,,Ashes may dance on the ground
+Dialogue: 0,0:01:13.66,0:01:17.55,辉中,,0,0,0,,灰烬也许只能在地表沉浮
+Dialogue: 0,0:01:18.40,0:01:21.76,辉英,,0,0,0,,But gravity can't keep us down
+Dialogue: 0,0:01:18.40,0:01:21.76,辉中,,0,0,0,,但引力束缚不了我们的脚步
+Dialogue: 0,0:01:22.30,0:01:27.96,辉英,,0,0,0,,A new awakening, looks like it's up to fate
+Dialogue: 0,0:01:22.30,0:01:27.96,辉中,,0,0,0,,一次新的觉醒，宛若天命既定
+Dialogue: 0,0:01:29.19,0:01:31.01,辉英,,0,0,0,,Oh
+Dialogue: 0,0:01:31.42,0:01:36.69,辉英,,0,0,0,,It's bigger than us, it's only begun
+Dialogue: 0,0:01:31.42,0:01:36.69,辉中,,0,0,0,,祂宽阔无疆，祂于此初降
+Dialogue: 0,0:01:36.72,0:01:40.98,辉英,,0,0,0,,When dark meets the light, it burns like the sun
+Dialogue: 0,0:01:36.72,0:01:40.98,辉中,,0,0,0,,于光暗交汇之时，它如烈阳般燃烧
+Dialogue: 0,0:01:41.01,0:01:47.59,辉英,,0,0,0,,It's bigger than us, it's only begun
+Dialogue: 0,0:01:41.01,0:01:47.59,辉中,,0,0,0,,祂甚于吾辈，祂刚刚诞生
+Dialogue: 0,0:01:47.66,0:01:49.28,辉英,,0,0,0,,(Only begun)
+Dialogue: 0,0:01:47.66,0:01:49.28,辉中,,0,0,0,,(祂迎来新生)
+Dialogue: 0,0:01:55.53,0:01:56.42,辉英,,0,0,0,,(Ten)
+Dialogue: 0,0:01:55.53,0:01:56.42,辉中,,0,0,0,,十
+Dialogue: 0,0:01:56.46,0:01:57.47,辉英,,0,0,0,,(Nine)
+Dialogue: 0,0:01:56.46,0:01:57.47,辉中,,0,0,0,,九
+Dialogue: 0,0:01:57.50,0:01:58.22,辉英,,0,0,0,,(Eight)
+Dialogue: 0,0:01:57.50,0:01:58.22,辉中,,0,0,0,,八
+Dialogue: 0,0:01:58.27,0:01:59.43,辉英,,0,0,0,,(Seven)
+Dialogue: 0,0:01:58.27,0:01:59.43,辉中,,0,0,0,,七
+Dialogue: 0,0:01:59.46,0:02:00.20,辉英,,0,0,0,,(Six)
+Dialogue: 0,0:01:59.46,0:02:00.20,辉中,,0,0,0,,六
+Dialogue: 0,0:02:00.28,0:02:01.29,辉英,,0,0,0,,(Ignition)
+Dialogue: 0,0:02:00.28,0:02:01.29,辉中,,0,0,0,,点火
+Dialogue: 0,0:02:01.31,0:02:02.18,辉英,,0,0,0,,(Four)
+Dialogue: 0,0:02:01.31,0:02:02.18,辉中,,0,0,0,,四
+Dialogue: 0,0:02:02.28,0:02:03.24,辉英,,0,0,0,,(Three)
+Dialogue: 0,0:02:02.28,0:02:03.24,辉中,,0,0,0,,三
+Dialogue: 0,0:02:03.29,0:02:03.90,辉英,,0,0,0,,(Two)
+Dialogue: 0,0:02:03.29,0:02:03.90,辉中,,0,0,0,,二
+Dialogue: 0,0:02:03.97,0:02:04.60,辉英,,0,0,0,,(One)
+Dialogue: 0,0:02:03.97,0:02:04.60,辉中,,0,0,0,,一
+Dialogue: 0,0:02:04.85,0:02:05.61,辉英,,0,0,0,,(Zero)
+Dialogue: 0,0:02:04.85,0:02:05.61,辉中,,0,0,0,,零
+Dialogue: 0,0:02:06.89,0:02:07.58,辉英,,0,0,0,,(Lift off)
+Dialogue: 0,0:02:06.89,0:02:07.58,辉中,,0,0,0,,起飞
+Dialogue: 0,0:02:45.26,0:02:47.41,辉英,,0,0,0,,There's no turning back
+Dialogue: 0,0:02:45.26,0:02:47.41,辉中,,0,0,0,,前已无退路
+Dialogue: 0,0:02:47.44,0:02:49.83,辉英,,0,0,0,,Tonight we will rise
+Dialogue: 0,0:02:47.44,0:02:49.83,辉中,,0,0,0,,我们将向上攀升
+Dialogue: 0,0:02:49.85,0:02:51.79,辉英,,0,0,0,,The fire that's within,
+Dialogue: 0,0:02:49.85,0:02:51.79,辉中,,0,0,0,,心中的那团火焰
+Dialogue: 0,0:02:51.81,0:02:54.36,辉英,,0,0,0,,it never dies
+Dialogue: 0,0:02:51.81,0:02:54.36,辉中,,0,0,0,,从未熄灭
+Dialogue: 0,0:02:54.39,0:02:56.53,辉英,,0,0,0,,A change of the tide
+Dialogue: 0,0:02:54.39,0:02:56.53,辉中,,0,0,0,,时局变幻
+Dialogue: 0,0:02:56.55,0:02:58.92,辉英,,0,0,0,,You can't run, you can't hide
+Dialogue: 0,0:02:56.55,0:02:58.92,辉中,,0,0,0,,你无所遁形
+Dialogue: 0,0:02:58.95,0:03:01.07,辉英,,0,0,0,,There's no turning back
+Dialogue: 0,0:02:58.95,0:03:01.07,辉中,,0,0,0,,你无路可退
+Dialogue: 0,0:03:01.10,0:03:05.13,辉英,,0,0,0,,So hold on
+Dialogue: 0,0:03:01.10,0:03:05.13,辉中,,0,0,0,,所以，看吧
+Dialogue: 0,0:03:05.42,0:03:08.05,辉英,,0,0,0,,We're lighting up the sky
+Dialogue: 0,0:03:05.42,0:03:08.05,辉中,,0,0,0,,我们将点亮星空
+Dialogue: 0,0:03:08.08,0:03:10.96,辉英,,0,0,0,,(We're lighting up the sky)
+Dialogue: 0,0:03:08.08,0:03:10.96,辉中,,0,0,0,,(星空将彻夜无眠)
+Dialogue: 0,0:03:11.12,0:03:14.25,辉英,,0,0,0,,Hold on
+Dialogue: 0,0:03:11.12,0:03:14.25,辉中,,0,0,0,,前进吧
+Dialogue: 0,0:03:14.50,0:03:17.14,辉英,,0,0,0,,Right here our worlds collide
+Dialogue: 0,0:03:14.50,0:03:17.14,辉中,,0,0,0,,于此，我们的世界相撞
+Dialogue: 0,0:03:17.17,0:03:19.45,辉英,,0,0,0,,Now it's our time
+Dialogue: 0,0:03:17.17,0:03:19.45,辉中,,0,0,0,,此刻属于你我
+Dialogue: 0,0:03:19.48,0:03:21.22,辉英,,0,0,0,,We own the light
+Dialogue: 0,0:03:19.48,0:03:21.22,辉中,,0,0,0,,执掌星光
+Dialogue: 0,0:03:24.22,0:03:39.41,辉英,,0,0,0,,We own the light
+Dialogue: 0,0:03:24.22,0:03:39.41,辉中,,0,0,0,,怀拥光明
