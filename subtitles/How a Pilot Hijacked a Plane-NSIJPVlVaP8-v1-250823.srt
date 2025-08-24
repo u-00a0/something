@@ -1,0 +1,1833 @@
+1
+00:00:02,355 --> 00:00:04,213
+At 9:27 am
+
+2
+00:00:02,355 --> 00:00:04,213
+话说那主体104年3月24号
+
+3
+00:00:04,213 --> 00:00:07,166
+on the 24th of March 2015,
+
+4
+00:00:04,213 --> 00:00:07,166
+的一个早晨，9点27分
+
+5
+00:00:07,166 --> 00:00:12,001
+a plane got in contact with the Marseilles enroute control center.
+
+6
+00:00:07,166 --> 00:00:12,001
+一架航班联络了马赛航路管制中心
+
+7
+00:00:12,219 --> 00:00:15,305
+It was an Airbus A320-211
+
+8
+00:00:12,219 --> 00:00:15,305
+那是架空客A320-211，
+
+9
+00:00:15,305 --> 00:00:17,168
+operated by Germanwings
+
+10
+00:00:15,305 --> 00:00:17,168
+由德国之翼航空运营
+
+11
+00:00:17,168 --> 00:00:19,320
+headed from Barcelona to Dusseldorf.
+
+12
+00:00:17,168 --> 00:00:19,320
+正从巴塞罗那飞往杜塞尔多夫
+
+13
+00:00:19,980 --> 00:00:22,129
+Everything seemed normal.
+
+14
+00:00:19,980 --> 00:00:22,129
+一切似乎如常
+
+15
+00:00:24,350 --> 00:00:31,437
+The captain read back the air traffic controller's clearance at 9:30, allowing him to fly to an enroute waypoint.
+
+16
+00:00:28,352 --> 00:00:31,437
+9点30分, 机长复诵了空管允许他飞往某个航路点的放行指令,
+
+17
+00:00:31,437 --> 00:00:34,140
+Only a few minutes later, something was off.
+
+18
+00:00:31,437 --> 00:00:34,140
+然而几分钟后，事情不对劲了起来
+
+19
+00:00:36,360 --> 00:00:38,444
+The control center in Marseilles
+
+20
+00:00:36,360 --> 00:00:38,444
+马赛的管制中心
+
+21
+00:00:38,444 --> 00:00:40,649
+saw that the altitude for the aircraft
+
+22
+00:00:38,444 --> 00:00:40,649
+发现飞机的高度
+
+23
+00:00:40,649 --> 00:00:42,180
+was around thirty thousand feet,
+
+24
+00:00:40,649 --> 00:00:42,180
+在三万英尺左右徘徊
+
+25
+00:00:42,635 --> 00:00:46,640
+almost two thousand feet lower than the original cruise altitude.
+
+26
+00:00:42,635 --> 00:00:46,640
+比原定的巡航高度低了差不多两千英尺
+
+27
+00:00:47,204 --> 00:00:48,288
+and declining.
+
+28
+00:00:47,204 --> 00:00:48,288
+且其高度仍在持续下降
+
+29
+00:00:49,162 --> 00:00:51,046
+Marseilles contacted the plane
+
+30
+00:00:49,162 --> 00:00:51,046
+马赛空管联系了航班
+
+31
+00:00:51,046 --> 00:00:53,818
+and asked what altitude the plane was cleared for,
+
+32
+00:00:51,046 --> 00:00:53,818
+并询问飞机获准飞行的高度
+
+33
+00:00:53,818 --> 00:00:56,520
+but they received no response at all
+
+34
+00:00:53,818 --> 00:00:56,520
+但他们没有收到回复
+
+35
+00:00:57,960 --> 00:01:00,069
+over the next 30 seconds,
+
+36
+00:00:57,960 --> 00:01:00,069
+之后的三十秒内
+
+37
+00:01:00,069 --> 00:01:03,400
+Marseilles tried to contact the flight crew two more times.
+
+38
+00:01:00,069 --> 00:01:03,400
+空管又试了两次
+
+39
+00:01:03,801 --> 00:01:05,392
+No answer.
+
+40
+00:01:03,801 --> 00:01:05,392
+还是没有答复
+
+41
+00:01:05,702 --> 00:01:09,381
+At 9:34 the control center tried a different frequency,
+
+42
+00:01:05,702 --> 00:01:09,381
+34分，空管再次尝试用不同频率联系
+
+43
+00:01:10,000 --> 00:01:12,007
+but again no response.
+
+44
+00:01:10,000 --> 00:01:12,007
+机组仍然没有答复
+
+45
+00:01:12,771 --> 00:01:15,360
+From 9:35 until 9:39
+
+46
+00:01:12,771 --> 00:01:15,360
+从35分到39分
+
+47
+00:01:15,724 --> 00:01:21,789
+the Marseilles control center tried to contact the flight crew multiple times over different frequencies.
+
+48
+00:01:19,079 --> 00:01:21,789
+马赛空管坚持多次用不同频率联系机组
+
+49
+00:01:22,808 --> 00:01:25,411
+An air traffic controller from the French air defense system
+
+50
+00:01:22,808 --> 00:01:25,411
+另一架飞机 以及一位法国防空系统的管制员
+
+51
+00:01:25,575 --> 00:01:28,320
+also tried as well as another aircraft
+
+52
+00:01:25,575 --> 00:01:28,320
+也尝试联系德翼9525
+
+53
+00:01:29,520 --> 00:01:30,892
+but each time
+
+54
+00:01:29,520 --> 00:01:30,892
+然而
+
+55
+00:01:31,220 --> 00:01:35,680
+no response from Germanwings flight 9525
+
+56
+00:01:31,220 --> 00:01:35,680
+德翼9525却一直没有回复
+
+57
+00:01:37,860 --> 00:01:40,767
+At 9:40 radar contact was lost
+
+58
+00:01:37,860 --> 00:01:40,767
+9点40分, 德翼9525的雷达信号消失了
+
+59
+00:01:41,313 --> 00:01:44,093
+the French air traffic controllers triggered a distress phase
+
+60
+00:01:41,313 --> 00:01:44,093
+法国空管启动了紧急程序
+
+61
+00:01:44,093 --> 00:01:46,654
+declaring that the aircraft and its occupants
+
+62
+00:01:44,093 --> 00:01:46,654
+宣布该飞行器及其乘员
+
+63
+00:01:46,654 --> 00:01:50,851
+were in imminent danger and required immediate assistance
+
+64
+00:01:46,654 --> 00:01:50,851
+处于迫在眉睫的危机之中并需要他人立即援助
+
+65
+00:01:50,851 --> 00:01:55,039
+At 9:41 am flight Germanwings 9525
+
+66
+00:01:50,851 --> 00:01:55,039
+41分,
+
+67
+00:01:55,039 --> 00:01:57,540
+crashed into the side of a mountain in the Alps.
+
+68
+00:01:55,039 --> 00:01:57,540
+德翼9525坠毁在了阿尔卑斯山脉的一侧
+
+69
+00:01:58,680 --> 00:01:59,476
+What happened?
+
+70
+00:01:58,680 --> 00:01:59,476
+到底发生了什么？
+
+71
+00:02:03,225 --> 00:02:05,482
+The crash occurred on a remote mountain.
+
+72
+00:02:03,225 --> 00:02:05,482
+事故发生在偏远山区
+
+73
+00:02:05,482 --> 00:02:07,609
+Because there was no access by road,
+
+74
+00:02:05,482 --> 00:02:07,609
+山上没通公路
+
+75
+00:02:07,609 --> 00:02:10,850
+emergency crew had to be brought in via helicopter.
+
+76
+00:02:07,609 --> 00:02:10,850
+救援人员不得不乘直升机前往
+
+77
+00:02:11,200 --> 00:02:13,605
+The plane was completely destroyed:
+
+78
+00:02:11,200 --> 00:02:13,605
+飞机撞的粉碎
+
+79
+00:02:13,605 --> 00:02:17,140
+the debris field vast but the pieces of the craft small.
+
+80
+00:02:13,605 --> 00:02:17,140
+碎片散步的区域很大, 而碎片本身却很小
+
+81
+00:02:18,420 --> 00:02:21,907
+The cockpit voice and flight recorder were found in the same week
+
+82
+00:02:18,420 --> 00:02:21,907
+驾驶舱语音记录器和飞行数据记录仪在同一周被发现
+
+83
+00:02:21,907 --> 00:02:23,944
+although they were both severely damaged.
+
+84
+00:02:21,907 --> 00:02:23,944
+不过它们也被摔的惨烈
+
+85
+00:02:23,944 --> 00:02:26,673
+When flight investigators stitched together the data
+
+86
+00:02:23,944 --> 00:02:26,673
+当调查员整合完毕数据
+
+87
+00:02:26,673 --> 00:02:29,275
+a story of intentional action formed.
+
+88
+00:02:26,673 --> 00:02:29,275
+
+
+89
+00:02:30,240 --> 00:02:32,151
+The plane was hijacked,
+
+90
+00:02:30,240 --> 00:02:32,151
+飞机被劫持了
+
+91
+00:02:32,151 --> 00:02:33,479
+but not by terrorists.
+
+92
+00:02:32,151 --> 00:02:33,479
+只不过不是被恐怖分子劫持的
+
+93
+00:02:34,444 --> 00:02:36,340
+Let's go back.
+
+94
+00:02:34,444 --> 00:02:36,340
+我们来回顾一下
+
+95
+00:02:41,164 --> 00:02:44,618
+After the aircraft leveled off at its cruise altitude,
+
+96
+00:02:41,164 --> 00:02:44,618
+9点半, 飞机离开巡航高度后
+
+97
+00:02:44,618 --> 00:02:48,875
+the captain left the cockpit to go to the bathroom at 9:30
+
+98
+00:02:44,618 --> 00:02:48,875
+机长离开驾驶舱去了厕所
+
+99
+00:02:49,420 --> 00:02:50,945
+While he was in the bathroom,
+
+100
+00:02:49,420 --> 00:02:50,945
+他在厕所里时
+
+101
+00:02:50,945 --> 00:02:53,183
+the plane was almost immediately set
+
+102
+00:02:50,945 --> 00:02:53,183
+飞机立刻被设置了
+
+103
+00:02:53,183 --> 00:02:55,453
+for a different altitude in the cockpit
+
+104
+00:02:53,183 --> 00:02:55,453
+一个不同的高度
+
+105
+00:02:56,327 --> 00:03:01,920
+At 9:34, the captain came back and requested
+access, but he got none.
+
+106
+00:02:56,327 --> 00:03:01,920
+34分, 机长上完厕所回来
+
+107
+00:03:01,920 --> 00:03:03,199
+The door was locked.
+
+108
+00:03:01,920 --> 00:03:03,199
+但他被锁在了驾驶舱门外
+
+109
+00:03:04,528 --> 00:03:07,226
+As he stood in front of that cockpit door
+
+110
+00:03:04,528 --> 00:03:07,226
+站在舱门前
+
+111
+00:03:07,226 --> 00:03:09,264
+the captain began to understand.
+
+112
+00:03:07,226 --> 00:03:09,264
+机长明白了
+
+113
+00:03:09,900 --> 00:03:12,655
+The co-pilot had hijacked the plane
+
+114
+00:03:09,900 --> 00:03:12,655
+副机长劫持了这架飞机
+
+115
+00:03:12,655 --> 00:03:15,700
+and he had no way of getting in.
+
+116
+00:03:12,655 --> 00:03:15,700
+而他没法进入驾驶舱
+
+117
+00:03:20,100 --> 00:03:21,373
+After 2001,
+
+118
+00:03:20,100 --> 00:03:21,373
+911事件后
+
+119
+00:03:21,373 --> 00:03:24,693
+cockpits were changed in order to protect those flying the plane from potential hijackers
+
+120
+00:03:21,373 --> 00:03:26,659
+飞机驾驶舱被改装以防止可能的劫机发生
+
+121
+00:03:26,659 --> 00:03:28,073
+To enter the cockpit,
+
+122
+00:03:26,659 --> 00:03:28,073
+机组成员想进入驾驶舱
+
+123
+00:03:28,073 --> 00:03:30,811
+a crew member has to call the cockpit on the intercom
+
+124
+00:03:28,073 --> 00:03:30,811
+就必须按键盘上的井号
+
+125
+00:03:30,811 --> 00:03:33,377
+and press the pound key on a keypad,
+
+126
+00:03:30,811 --> 00:03:33,377
+用对讲系统呼叫驾驶舱
+
+127
+00:03:33,377 --> 00:03:34,681
+which buzzes the cockpit.
+
+128
+00:03:33,377 --> 00:03:34,681
+让驾驶舱里的人听到嗡嗡声
+
+129
+00:03:35,500 --> 00:03:38,337
+At that moment the pilot can switch the door control
+
+130
+00:03:35,500 --> 00:03:38,337
+这之后飞行员可以控制舱门
+
+131
+00:03:38,337 --> 00:03:40,013
+from norm to unlock,
+
+132
+00:03:38,337 --> 00:03:40,013
+将其切换到解锁状态
+
+133
+00:03:40,013 --> 00:03:41,514
+and the crew member can enter.
+
+134
+00:03:40,013 --> 00:03:41,514
+随后机组成员便可进门
+
+135
+00:03:42,540 --> 00:03:45,198
+The crew is also given emergency codes
+
+136
+00:03:42,540 --> 00:03:45,198
+机组也有应急密码
+
+137
+00:03:45,198 --> 00:03:48,091
+which they can use if there are concerns for those in the cockpit.
+
+138
+00:03:45,198 --> 00:03:48,091
+可在驾驶舱内人员出问题时使用
+
+139
+00:03:49,019 --> 00:03:52,804
+in that case the crew member will use the emergency code on the keypad
+
+140
+00:03:49,019 --> 00:03:52,804
+机组可以在键盘上输入应急密码
+
+141
+00:03:52,804 --> 00:03:55,019
+triggering a 30 second timer
+
+142
+00:03:52,804 --> 00:03:55,019
+30秒后,
+
+143
+00:03:55,019 --> 00:03:58,831
+and the cockpit door will open for 5 seconds
+
+144
+00:03:55,019 --> 00:03:58,831
+舱门就会打开5秒钟
+
+145
+00:03:58,831 --> 00:04:02,335
+however there are situations where those in the cockpit
+
+146
+00:03:58,831 --> 00:04:02,335
+然而, 在某种情况下
+
+147
+00:04:02,335 --> 00:04:05,000
+want to override the access by the crew
+
+148
+00:04:02,335 --> 00:04:05,000
+譬如被劫机时
+
+149
+00:04:05,000 --> 00:04:07,029
+like during a hijacking
+
+150
+00:04:05,000 --> 00:04:07,029
+驾驶舱里的人可以阻止机组成员开门
+
+151
+00:04:07,029 --> 00:04:11,273
+in that situation the pilots can switch the door control to lock
+
+152
+00:04:07,029 --> 00:04:11,273
+飞行员可以把舱门切换到锁定状态
+
+153
+00:04:11,273 --> 00:04:13,440
+overriding all emergency access.
+
+154
+00:04:11,273 --> 00:04:13,440
+阻止他人用应急密码开门
+
+155
+00:04:14,820 --> 00:04:16,748
+and it's that mechanism
+
+156
+00:04:14,820 --> 00:04:16,748
+德翼9525的副机长
+
+157
+00:04:16,748 --> 00:04:18,200
+that the co-pilot used
+
+158
+00:04:16,748 --> 00:04:18,200
+正是使用了这个机制
+
+159
+00:04:18,200 --> 00:04:20,901
+to permanently lock access to the cockpit
+
+160
+00:04:18,200 --> 00:04:20,901
+锁定了驾驶舱门
+
+161
+00:04:20,901 --> 00:04:22,952
+while the plane began to descend.
+
+162
+00:04:20,901 --> 00:04:22,952
+飞机开始下降时
+
+163
+00:04:24,080 --> 00:04:26,733
+The captain was locked out of the cockpit
+
+164
+00:04:24,080 --> 00:04:26,733
+机长被锁在了外边
+
+165
+00:04:27,019 --> 00:04:28,200
+without any control.
+
+166
+00:04:27,019 --> 00:04:28,200
+无法操控飞机
+
+167
+00:04:29,460 --> 00:04:31,962
+At 9:39 the cockpit voice recorder
+
+168
+00:04:29,460 --> 00:04:31,962
+39分时,
+
+169
+00:04:31,962 --> 00:04:34,740
+picked up violent blows on the cockpit door.
+
+170
+00:04:31,962 --> 00:04:34,740
+语音记录器录下了舱门上传来的猛烈撞击声
+
+171
+00:04:35,400 --> 00:04:40,108
+The captain had repeatedly tried breaking in to gain access
+
+172
+00:04:35,400 --> 00:04:40,108
+机长尝试破门
+
+173
+00:04:40,108 --> 00:04:42,768
+but the cockpit door was reinforced.
+
+174
+00:04:40,108 --> 00:04:42,768
+但舱门为反武装劫机而设计
+
+175
+00:04:42,768 --> 00:04:45,140
+Made to withstand armed hijackers
+
+176
+00:04:42,768 --> 00:04:45,140
+十分坚固
+
+177
+00:04:45,140 --> 00:04:47,040
+the captain stood little chance.
+
+178
+00:04:45,140 --> 00:04:47,040
+机长胜算微渺
+
+179
+00:04:49,105 --> 00:04:50,703
+In the last minutes
+
+180
+00:04:49,105 --> 00:04:50,703
+在最后的几分钟里
+
+181
+00:04:50,703 --> 00:04:52,839
+the passengers crew and Captain
+
+182
+00:04:50,703 --> 00:04:52,839
+机组与乘客
+
+183
+00:04:52,839 --> 00:04:55,200
+all knew that the plane was going down.
+
+184
+00:04:52,839 --> 00:04:55,200
+都了发现飞机正在坠毁
+
+185
+00:04:57,180 --> 00:04:59,207
+No one survived the crash.
+
+186
+00:04:57,180 --> 00:04:59,207
+机上144位乘客
+
+187
+00:05:00,135 --> 00:05:02,126
+144 passengers
+
+188
+00:05:00,135 --> 00:05:02,126
+4位乘务员
+
+189
+00:05:02,126 --> 00:05:03,323
+four cabin crew
+
+190
+00:05:02,126 --> 00:05:03,323
+机长及副机长
+
+191
+00:05:03,323 --> 00:05:05,340
+and the captain and co-pilot died.
+
+192
+00:05:03,323 --> 00:05:05,340
+无人幸存
+
+193
+00:05:06,180 --> 00:05:09,715
+Amongst the passengers was an entire school class
+
+194
+00:05:06,180 --> 00:05:09,715
+乘客中, 有一整个班的孩子
+
+195
+00:05:09,715 --> 00:05:12,008
+returning from a field trip to Spain.
+
+196
+00:05:09,715 --> 00:05:12,008
+在西班牙郊游完毕正返校
+
+197
+00:05:12,973 --> 00:05:14,927
+The captain Patrick Sondenheimer
+
+198
+00:05:12,973 --> 00:05:14,927
+机长帕特里克·桑德海默*
+
+199
+00:05:14,927 --> 00:05:17,291
+was a 34 year old father of two.
+
+200
+00:05:14,927 --> 00:05:17,291
+时年34, 膝下二儿
+
+201
+00:05:17,291 --> 00:05:20,247
+In the aftermath his wife set up a foundation in his name
+
+202
+00:05:17,291 --> 00:05:20,247
+事后, 机长的妻子以他的名义设立了一家基金会
+
+203
+00:05:20,666 --> 00:05:23,738
+intended to help children and young people handle grief and crisis.
+
+204
+00:05:20,666 --> 00:05:23,738
+来帮助儿童及年轻人应对危机与悲伤
+
+205
+00:05:24,120 --> 00:05:26,360
+He had thousands of total flight hours
+
+206
+00:05:24,120 --> 00:05:26,360
+机长有数千小时的飞行经验
+
+207
+00:05:26,578 --> 00:05:30,319
+and his last moments were dedicated to trying to save the plane and passengers.
+
+208
+00:05:26,578 --> 00:05:30,319
+直到最后一刻, 他还在力图挽救乘客与飞机
+
+209
+00:05:36,000 --> 00:05:39,102
+The co-pilot was 27 years old
+
+210
+00:05:36,000 --> 00:05:39,102
+副机长时年27
+
+211
+00:05:39,102 --> 00:05:43,464
+and from a young age he was passionate about flying.
+
+212
+00:05:39,102 --> 00:05:43,464
+从小他就热衷于飞行
+
+213
+00:05:43,464 --> 00:05:47,315
+His bedroom had posters of Airbus Boeing and Lufthansa
+
+214
+00:05:43,464 --> 00:05:47,315
+他的卧室里贴着波音、空客与汉莎航空的海报
+
+215
+00:05:47,315 --> 00:05:50,224
+and he'd become an expert glider pilot as a child.
+
+216
+00:05:47,315 --> 00:05:50,224
+他小时候就精通于滑翔机驾驶
+
+217
+00:05:50,920 --> 00:05:54,233
+He joined Lufthansa's Flight Academy straight out of school,
+
+218
+00:05:50,920 --> 00:05:54,233
+他一毕业就加入了汉莎航空的飞行学院
+
+219
+00:05:54,233 --> 00:05:56,903
+but only a few months into the program
+
+220
+00:05:54,233 --> 00:05:56,903
+但仅仅几个月后
+
+221
+00:05:56,903 --> 00:05:57,822
+he stopped.
+
+222
+00:05:56,903 --> 00:05:57,822
+他就被停飞了
+
+223
+00:05:58,860 --> 00:06:02,145
+He was suffering from a deep depressive episode
+
+224
+00:05:58,860 --> 00:06:02,145
+他正经历着一次严重的抑郁症发作
+
+225
+00:06:02,145 --> 00:06:03,979
+treated with antidepressants
+
+226
+00:06:02,145 --> 00:06:03,979
+同时在服用抗抑郁药物
+
+227
+00:06:03,979 --> 00:06:07,966
+and spent multiple months in the care of a psychiatrist.
+
+228
+00:06:03,979 --> 00:06:07,966
+并接受了长达数月的治疗
+
+229
+00:06:07,966 --> 00:06:11,090
+Eventually he received a medical recommendation
+
+230
+00:06:07,966 --> 00:06:11,090
+最终他收到了一份医疗建议
+
+231
+00:06:11,090 --> 00:06:12,731
+declaring that he was in remission.
+
+232
+00:06:11,090 --> 00:06:12,731
+宣布他已处于缓解期
+
+233
+00:06:13,368 --> 00:06:14,873
+After a few months
+
+234
+00:06:13,368 --> 00:06:14,873
+数月后
+
+235
+00:06:14,873 --> 00:06:19,482
+his student pilot license and fit to fly medical certificate were restored,
+
+236
+00:06:14,873 --> 00:06:19,482
+他的学生飞行员执照与适航医疗证明被恢复
+
+237
+00:06:19,791 --> 00:06:22,963
+but if he needed any more psychiatric treatment
+
+238
+00:06:19,791 --> 00:06:22,963
+不过如果仍需要进一步的心理治疗
+
+239
+00:06:22,963 --> 00:06:25,084
+he'd be grounded from flying.
+
+240
+00:06:22,963 --> 00:06:25,084
+他就会被停飞
+
+241
+00:06:25,800 --> 00:06:27,877
+But he continued with his training
+
+242
+00:06:25,800 --> 00:06:27,877
+但他继续进行训练
+
+243
+00:06:27,877 --> 00:06:30,000
+until he ran into a problem.
+
+244
+00:06:27,877 --> 00:06:30,000
+直到撞上南墙
+
+245
+00:06:30,655 --> 00:06:35,546
+While filling out a document required by the U.S Federal Aviation Administration
+
+246
+00:06:30,655 --> 00:06:35,546
+在填写一份由美国联邦航空管理局(FAA)要求的文件,
+
+247
+00:06:35,546 --> 00:06:40,113
+to fly at an Arizona based Lufthansa operated flight school
+
+248
+00:06:35,546 --> 00:06:40,113
+以在亚利桑那州的一家汉莎航空旗下航校飞行时
+
+249
+00:06:40,113 --> 00:06:42,511
+he said that he had never been diagnosed
+
+250
+00:06:40,113 --> 00:06:42,511
+他说他从未被诊断
+
+251
+00:06:42,511 --> 00:06:43,920
+with any mental disorders.
+
+252
+00:06:42,511 --> 00:06:43,920
+患有任何精神疾病
+
+253
+00:06:44,940 --> 00:06:47,287
+This was a lie
+
+254
+00:06:44,940 --> 00:06:47,287
+这是个谎言
+
+255
+00:06:47,287 --> 00:06:48,896
+and he got caught.
+
+256
+00:06:47,287 --> 00:06:48,896
+而他被揭穿了
+
+257
+00:06:48,896 --> 00:06:52,284
+Lying on an FAA application can lead to a jail offense
+
+258
+00:06:48,896 --> 00:06:52,284
+在FAA申请中造假可能构成刑事犯罪
+
+259
+00:06:52,284 --> 00:06:54,541
+or the end of a flying career,
+
+260
+00:06:52,284 --> 00:06:54,541
+也可能终结他的飞行生涯
+
+261
+00:06:54,541 --> 00:06:58,216
+but the FAA gave him a second chance.
+
+262
+00:06:54,541 --> 00:06:58,216
+但FAA给了他第二次机会
+
+263
+00:06:58,216 --> 00:06:59,680
+He admitted to depression
+
+264
+00:06:58,216 --> 00:06:59,680
+他承认他患有抑郁症
+
+265
+00:06:59,680 --> 00:07:02,543
+and was accepted to go to Arizona.
+
+266
+00:06:59,680 --> 00:07:02,543
+
+
+267
+00:07:02,543 --> 00:07:05,452
+In 2013 he joined Germanwings
+
+268
+00:07:02,543 --> 00:07:05,452
+
+
+269
+00:07:05,452 --> 00:07:07,800
+a low-budget Airline owned by Lufthansa.
+
+270
+00:07:05,452 --> 00:07:07,800
+
+
+271
+00:07:08,700 --> 00:07:12,074
+And a year later his depression returned.
+
+272
+00:07:08,700 --> 00:07:12,074
+
+
+273
+00:07:13,057 --> 00:07:15,663
+He thought he was going blind
+
+274
+00:07:13,057 --> 00:07:15,663
+
+
+275
+00:07:15,663 --> 00:07:19,582
+visiting ophthalmologists and neurologists multiple times per week
+
+276
+00:07:15,663 --> 00:07:19,582
+
+
+277
+00:07:19,582 --> 00:07:26,208
+because he was seeing stars, halos, flashes of light, streaks, and flying insects.
+
+278
+00:07:19,582 --> 00:07:26,208
+
+
+279
+00:07:26,208 --> 00:07:28,620
+But the doctor's scans didn't find much.
+
+280
+00:07:26,208 --> 00:07:28,620
+
+
+281
+00:07:29,400 --> 00:07:32,729
+He was diagnosed with hypochondriacal disorder
+
+282
+00:07:29,400 --> 00:07:32,729
+
+
+283
+00:07:32,729 --> 00:07:35,760
+as well as emergent psychosis from his family doctor.
+
+284
+00:07:32,729 --> 00:07:35,760
+
+
+285
+00:07:36,480 --> 00:07:40,276
+And that doctor urged him to go to a psychiatric clinic,
+
+286
+00:07:36,480 --> 00:07:40,276
+
+
+287
+00:07:40,276 --> 00:07:42,461
+but he do no such thing.
+
+288
+00:07:40,276 --> 00:07:42,461
+
+
+289
+00:07:42,461 --> 00:07:45,164
+Instead in January of 2015
+
+290
+00:07:42,461 --> 00:07:45,164
+
+
+291
+00:07:45,164 --> 00:07:47,109
+he returned to the psychiatrist
+
+292
+00:07:45,164 --> 00:07:47,109
+
+
+293
+00:07:47,109 --> 00:07:48,540
+that had helped him in the first place.
+
+294
+00:07:47,109 --> 00:07:48,540
+
+
+295
+00:07:49,200 --> 00:07:51,175
+He received Psychotherapy
+
+296
+00:07:49,200 --> 00:07:51,175
+
+
+297
+00:07:51,175 --> 00:07:53,304
+and went on heavy antidepressants
+
+298
+00:07:51,175 --> 00:07:53,304
+
+
+299
+00:07:53,304 --> 00:07:55,140
+while continuing to work and fly.
+
+300
+00:07:53,304 --> 00:07:55,140
+
+
+301
+00:07:56,100 --> 00:07:57,999
+From February to March
+
+302
+00:07:56,100 --> 00:07:57,999
+
+
+303
+00:07:57,999 --> 00:08:01,214
+he received multiple sick notes from multiple doctors.
+
+304
+00:07:57,999 --> 00:08:01,214
+
+
+305
+00:08:01,924 --> 00:08:05,324
+He wasn't alright and he wanted something to change.
+
+306
+00:08:01,924 --> 00:08:05,324
+
+
+307
+00:08:06,962 --> 00:08:08,861
+Four days before the crash
+
+308
+00:08:06,962 --> 00:08:08,861
+
+
+309
+00:08:08,861 --> 00:08:12,269
+he turned to his computer to understand the locking mechanism
+
+310
+00:08:08,861 --> 00:08:12,269
+
+
+311
+00:08:12,269 --> 00:08:15,536
+on the Airbus A320 cockpit door.
+
+312
+00:08:12,269 --> 00:08:15,536
+
+
+313
+00:08:15,536 --> 00:08:18,701
+On his outbound flight from Dusseldorf to Barcelona
+
+314
+00:08:15,536 --> 00:08:18,701
+
+
+315
+00:08:18,701 --> 00:08:21,722
+he tested the descent settings for a moment
+
+316
+00:08:18,701 --> 00:08:21,722
+
+
+317
+00:08:21,722 --> 00:08:24,000
+while Sondenheimer was outside the cockpit.
+
+318
+00:08:21,722 --> 00:08:24,000
+
+
+319
+00:08:24,900 --> 00:08:26,576
+On the return flight
+
+320
+00:08:24,900 --> 00:08:26,576
+
+
+321
+00:08:26,576 --> 00:08:28,616
+he used it to bring down the plane.
+
+322
+00:08:26,576 --> 00:08:28,616
+
+
+323
+00:08:29,908 --> 00:08:31,635
+How could this have happened?
+
+324
+00:08:29,908 --> 00:08:31,635
+
+
+325
+00:08:32,800 --> 00:08:36,222
+Pilots are required to do Health screenings and annual
+checkups,
+
+326
+00:08:32,800 --> 00:08:36,222
+
+
+327
+00:08:36,222 --> 00:08:39,866
+but mental health is easier overlooked than physical.
+
+328
+00:08:36,222 --> 00:08:39,866
+
+
+329
+00:08:39,866 --> 00:08:42,092
+Since Pilots operate under an honor system
+
+330
+00:08:39,866 --> 00:08:42,092
+
+
+331
+00:08:42,092 --> 00:08:44,926
+they're expected to self-evaluate their health.
+
+332
+00:08:42,092 --> 00:08:44,926
+
+
+333
+00:08:44,926 --> 00:08:46,780
+And this can be an issue.
+
+334
+00:08:44,926 --> 00:08:46,780
+
+
+335
+00:08:46,780 --> 00:08:49,818
+The co-pilot was declared unfit to work by his doctor,
+
+336
+00:08:46,780 --> 00:08:49,818
+
+
+337
+00:08:49,818 --> 00:08:52,828
+but he decided to just not tell his employer.
+
+338
+00:08:49,818 --> 00:08:52,828
+
+
+339
+00:08:53,501 --> 00:08:56,872
+But if someone like him is a risk to Public Safety
+
+340
+00:08:53,501 --> 00:08:56,872
+
+
+341
+00:08:56,872 --> 00:09:00,205
+a doctor can break doctor-patient confidentiality
+
+342
+00:08:56,872 --> 00:09:00,205
+
+
+343
+00:09:00,205 --> 00:09:02,680
+and report him to authorities.
+
+344
+00:09:00,205 --> 00:09:02,680
+
+
+345
+00:09:04,320 --> 00:09:07,572
+So why didn't at least one of the multiple doctors
+
+346
+00:09:04,320 --> 00:09:07,572
+
+
+347
+00:09:07,572 --> 00:09:09,536
+who wrote multiple sick notes
+
+348
+00:09:07,572 --> 00:09:09,536
+
+
+349
+00:09:09,536 --> 00:09:11,905
+and declared him unfit to fly
+
+350
+00:09:09,536 --> 00:09:11,905
+
+
+351
+00:09:11,905 --> 00:09:15,600
+think that the co-pilot may have presented a risk for public safety?
+
+352
+00:09:11,905 --> 00:09:15,600
+
+
+353
+00:09:16,260 --> 00:09:17,851
+Enough of a risk
+
+354
+00:09:16,260 --> 00:09:17,851
+
+
+355
+00:09:17,851 --> 00:09:20,373
+that he couldn't be trusted to report himself?
+
+356
+00:09:17,851 --> 00:09:20,373
+
+
+357
+00:09:21,410 --> 00:09:22,693
+We don't know.
+
+358
+00:09:21,410 --> 00:09:22,693
+
+
+359
+00:09:23,275 --> 00:09:26,693
+The doctors may have believed the co-pilot was a risk to himself
+
+360
+00:09:23,275 --> 00:09:26,693
+
+
+361
+00:09:26,693 --> 00:09:28,186
+but not to others.
+
+362
+00:09:26,693 --> 00:09:28,186
+
+
+363
+00:09:28,186 --> 00:09:30,709
+Being depressed does not make you a killer.
+
+364
+00:09:28,186 --> 00:09:30,709
+
+
+365
+00:09:31,674 --> 00:09:34,797
+Or maybe the doctors were just scared.
+
+366
+00:09:31,674 --> 00:09:34,797
+
+
+367
+00:09:34,797 --> 00:09:40,000
+Breaking doctor-patient confidentiality does not come without risks.
+
+368
+00:09:34,797 --> 00:09:40,000
+
+
+369
+00:09:40,000 --> 00:09:43,020
+It's even possible cultural factors could have played a role.
+
+370
+00:09:40,000 --> 00:09:43,020
+
+
+371
+00:09:45,480 --> 00:09:48,780
+Privacy and data protection are valued really highly in Germany.
+
+372
+00:09:45,480 --> 00:09:48,780
+
+
+373
+00:09:50,100 --> 00:09:54,000
+But trying to understand why doctor patient confidentiality wasn't broken
+
+374
+00:09:50,100 --> 00:09:54,000
+
+
+375
+00:09:54,000 --> 00:09:59,543
+is a dilemma an issue best left to healthcare professionals and ethics professors.
+
+376
+00:09:54,000 --> 00:09:59,543
+
+
+377
+00:09:59,543 --> 00:10:02,053
+And unfortunately we're YouTubers.
+
+378
+00:09:59,543 --> 00:10:02,053
+
+
+379
+00:10:02,053 --> 00:10:04,500
+So we encourage you to read more about it in these articles.
+
+380
+00:10:02,053 --> 00:10:04,500
+
+
+381
+00:10:08,978 --> 00:10:11,277
+Nonetheless when you're watching this today
+
+382
+00:10:08,978 --> 00:10:11,277
+
+
+383
+00:10:11,277 --> 00:10:14,053
+it's important to understand that this type of incident
+
+384
+00:10:11,277 --> 00:10:14,053
+
+
+385
+00:10:14,053 --> 00:10:16,254
+is incredibly unlikely.
+
+386
+00:10:14,053 --> 00:10:16,254
+
+
+387
+00:10:16,254 --> 00:10:19,410
+In the aftermath the European Aviation safety agency
+
+388
+00:10:16,254 --> 00:10:19,410
+
+
+389
+00:10:19,410 --> 00:10:22,261
+proposed multiple safety regulations.
+
+390
+00:10:19,410 --> 00:10:22,261
+
+
+391
+00:10:22,261 --> 00:10:24,996
+Psychological screening for pilots increased
+
+392
+00:10:22,261 --> 00:10:24,996
+
+
+393
+00:10:24,996 --> 00:10:30,166
+and multiple Airlines adopted a two-person in the cockpit at all-time rule
+
+394
+00:10:24,996 --> 00:10:30,166
+
+
+395
+00:10:30,166 --> 00:10:32,520
+although Lufthansa has recently phased this out.
+
+396
+00:10:30,166 --> 00:10:32,520
+
+
+397
+00:10:33,180 --> 00:10:37,146
+In 2015 Germanwings was rebranded to Eurowings.
+
+398
+00:10:33,180 --> 00:10:37,146
+
+
+399
+00:10:37,146 --> 00:10:39,120
+The decision was made prior to the crash.
+
+400
+00:10:37,146 --> 00:10:39,120
+
+
+401
+00:10:39,900 --> 00:10:43,732
+In the end Lufthansa compensated the families of the victims
+
+402
+00:10:39,900 --> 00:10:43,732
+
+
+403
+00:10:43,732 --> 00:10:46,741
+but there are questions about whether it was enough.
+
+404
+00:10:43,732 --> 00:10:46,741
+
+
+405
+00:10:46,832 --> 00:10:50,011
+The families have faced losses that no money can heal.
+
+406
+00:10:46,832 --> 00:10:50,011
+
+
+407
+00:10:54,331 --> 00:10:57,535
+Hopefully you enjoyed this video, it was insanely hard to make.
+
+408
+00:10:54,331 --> 00:10:57,535
+
+
+409
+00:10:57,535 --> 00:10:59,332
+We love animation and deep research
+
+410
+00:10:57,535 --> 00:10:59,332
+
+
+411
+00:10:59,332 --> 00:11:00,372
+but it's expensive.
+
+412
+00:10:59,332 --> 00:11:00,372
+
+
+413
+00:11:00,372 --> 00:11:02,077
+That's why we have sponsors on this channel.
+
+414
+00:11:00,372 --> 00:11:02,077
+
+
+415
+00:11:02,077 --> 00:11:04,116
+By the way a lot of our animation in particular
+
+416
+00:11:02,077 --> 00:11:04,116
+
+
+417
+00:11:04,116 --> 00:11:05,670
+actually has a lot to do with math,
+
+418
+00:11:04,116 --> 00:11:05,670
+
+
+419
+00:11:05,670 --> 00:11:08,340
+be it geometry or linear algebra for specific shaders
+
+420
+00:11:05,670 --> 00:11:08,340
+
+
+421
+00:11:08,340 --> 00:11:10,669
+or code for scripted and procedural animation.
+
+422
+00:11:08,340 --> 00:11:10,669
+
+
+423
+00:11:10,669 --> 00:11:12,436
+Both can be exciting and fascinating
+
+424
+00:11:10,669 --> 00:11:12,436
+
+
+425
+00:11:12,436 --> 00:11:14,342
+especially if taught in a playful manner.
+
+426
+00:11:12,436 --> 00:11:14,342
+
+
+427
+00:11:14,342 --> 00:11:15,625
+That's where Brilliant comes in.
+
+428
+00:11:14,342 --> 00:11:15,625
+
+
+429
+00:11:15,625 --> 00:11:18,187
+It gives you skills that can be applied to everything literally,
+
+430
+00:11:15,625 --> 00:11:18,187
+
+
+431
+00:11:18,187 --> 00:11:21,972
+be it basic logic artificial intelligence data science or physics.
+
+432
+00:11:18,187 --> 00:11:21,972
+
+
+433
+00:11:21,972 --> 00:11:24,956
+But it gives it to you in a way that isn't earth-shatteringly boring.
+
+434
+00:11:21,972 --> 00:11:24,956
+
+
+435
+00:11:24,956 --> 00:11:28,511
+To try everything brilliant has to offer free for a full 30 days
+
+436
+00:11:24,956 --> 00:11:28,511
+
+
+437
+00:11:28,511 --> 00:11:32,278
+visit brilliant.org/fern or click on the link in the description.
+
+438
+00:11:28,511 --> 00:11:32,278
+
+
+439
+00:11:32,278 --> 00:11:36,327
+The first 200 of you will get 20 off of Brilliant's annual premium subscription.
+
+440
+00:11:32,278 --> 00:11:36,327
+
+
+441
+00:11:36,327 --> 00:11:40,707
+You always have your phone on you, which means Brilliant always gives you access to learn math and science anywhere
+
+442
+00:11:36,327 --> 00:11:40,707
+
+
+443
+00:11:40,707 --> 00:11:42,843
+even if it's only for a few minutes each day.
+
+444
+00:11:40,707 --> 00:11:42,843
+
+
+445
+00:11:42,843 --> 00:11:45,127
+You can improve your skills while in a tram, walking
+
+446
+00:11:42,843 --> 00:11:45,127
+
+
+447
+00:11:45,127 --> 00:11:47,464
+or while your significant other is trying to connect with you.
+
+448
+00:11:45,127 --> 00:11:47,464
+
+
+449
+00:11:47,464 --> 00:11:48,789
+We personally love the app.
+
+450
+00:11:47,464 --> 00:11:48,789
+
+
+451
+00:11:48,789 --> 00:11:50,762
+There's something incredibly satisfying
+
+452
+00:11:48,789 --> 00:11:50,762
+
+
+453
+00:11:50,762 --> 00:11:52,157
+about really getting something
+
+454
+00:11:50,762 --> 00:11:52,157
+
+
+455
+00:11:52,157 --> 00:11:54,622
+about solving puzzle or logic problem.
+
+456
+00:11:52,157 --> 00:11:54,622
+
+
+457
+00:11:54,622 --> 00:11:55,640
+Why don't you give it a try.
+
+458
+00:11:54,622 --> 00:11:55,640
+
