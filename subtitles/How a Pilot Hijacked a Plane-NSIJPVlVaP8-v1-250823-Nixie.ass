@@ -1,0 +1,482 @@
+[Script Info]
+; 辉光字幕组样式模板
+; https://github.com/Kilo19/NixieVideoKit
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,8,1
+Style: 辉中,文泉驿微米黑,45,&H00FFFFFF,&H000000FF,&H006E4216,&H00000000,-1,0,0,0,100,100,0.5,0,1,2.8,0.2,2,0,0,10,1
+Style: 辉英,Tahoma,35,&H00FFFFFF,&H000000FF,&H003B3C3D,&H00000000,0,0,0,0,100,100,1,0,1,2.8,0.2,2,0,0,10,1
+Style: 辉注,文泉驿微米黑,36,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,1,0,1,3,0.7,9,10,10,10,1
+Style: LTT intro,Noto Sans CJK SC Medium,60,&H00494949,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.36,0:00:04.21,辉英,,0,0,0,,At 9:27 am
+Dialogue: 0,0:00:02.36,0:00:04.21,辉中,,0,0,0,,话说那主体104年3月24号
+Dialogue: 0,0:00:04.21,0:00:07.17,辉英,,0,0,0,,on the 24th of March 2015,
+Dialogue: 0,0:00:04.21,0:00:07.17,辉中,,0,0,0,,的一个早晨, 9点27分
+Dialogue: 0,0:00:07.17,0:00:12.00,辉英,,0,0,0,,a plane got in contact with the Marseilles enroute control center.
+Dialogue: 0,0:00:07.17,0:00:12.00,辉中,,0,0,0,,一架航班联络了马赛航路管制中心
+Dialogue: 0,0:00:12.22,0:00:15.31,辉英,,0,0,0,,It was an Airbus A320-211
+Dialogue: 0,0:00:12.22,0:00:15.31,辉中,,0,0,0,,那是架空客A320-211, 
+Dialogue: 0,0:00:15.31,0:00:17.17,辉英,,0,0,0,,operated by Germanwings
+Dialogue: 0,0:00:15.31,0:00:17.17,辉中,,0,0,0,,由德国之翼航空运营
+Dialogue: 0,0:00:17.17,0:00:19.32,辉英,,0,0,0,,headed from Barcelona to Dusseldorf.
+Dialogue: 0,0:00:17.17,0:00:19.32,辉中,,0,0,0,,正从巴塞罗那飞往杜塞尔多夫
+Dialogue: 0,0:00:19.98,0:00:22.13,辉英,,0,0,0,,Everything seemed normal.
+Dialogue: 0,0:00:19.98,0:00:22.13,辉中,,0,0,0,,一切似乎如常
+Dialogue: 0,0:00:24.35,0:00:31.44,辉英,,0,0,0,,The captain read back the air traffic controller's clearance at 9:30, allowing him to fly to an enroute waypoint.
+Dialogue: 0,0:00:24.35,0:00:31.44,辉中,,0,0,0,,9点30分, 机长复诵了空管允许他飞往某个航路点的放行指令,
+Dialogue: 0,0:00:31.44,0:00:34.14,辉英,,0,0,0,,Only a few minutes later, something was off.
+Dialogue: 0,0:00:31.44,0:00:34.14,辉中,,0,0,0,,然而几分钟后, 事情不对劲了起来
+Dialogue: 0,0:00:36.36,0:00:38.44,辉英,,0,0,0,,The control center in Marseilles
+Dialogue: 0,0:00:36.36,0:00:38.44,辉中,,0,0,0,,马赛的管制中心
+Dialogue: 0,0:00:38.44,0:00:40.65,辉英,,0,0,0,,saw that the altitude for the aircraft
+Dialogue: 0,0:00:38.44,0:00:40.65,辉中,,0,0,0,,发现飞机的高度
+Dialogue: 0,0:00:40.65,0:00:42.18,辉英,,0,0,0,,was around thirty thousand feet,
+Dialogue: 0,0:00:40.65,0:00:42.18,辉中,,0,0,0,,在三万英尺左右徘徊
+Dialogue: 0,0:00:42.64,0:00:46.64,辉英,,0,0,0,,almost two thousand feet lower than the original cruise altitude.
+Dialogue: 0,0:00:42.64,0:00:46.64,辉中,,0,0,0,,比原定的巡航高度低了差不多两千英尺
+Dialogue: 0,0:00:47.20,0:00:48.29,辉英,,0,0,0,,and declining.
+Dialogue: 0,0:00:47.20,0:00:48.29,辉中,,0,0,0,,且其高度仍在持续下降
+Dialogue: 0,0:00:49.16,0:00:51.05,辉英,,0,0,0,,Marseilles contacted the plane
+Dialogue: 0,0:00:49.16,0:00:51.05,辉中,,0,0,0,,马赛空管联系了航班
+Dialogue: 0,0:00:51.05,0:00:53.82,辉英,,0,0,0,,and asked what altitude the plane was cleared for,
+Dialogue: 0,0:00:51.05,0:00:53.82,辉中,,0,0,0,,并询问飞机获准飞行的高度
+Dialogue: 0,0:00:53.82,0:00:56.52,辉英,,0,0,0,,but they received no response at all
+Dialogue: 0,0:00:53.82,0:00:56.52,辉中,,0,0,0,,但他们没有收到回复
+Dialogue: 0,0:00:57.96,0:01:00.07,辉英,,0,0,0,,over the next 30 seconds,
+Dialogue: 0,0:00:57.96,0:01:00.07,辉中,,0,0,0,,之后的三十秒内
+Dialogue: 0,0:01:00.07,0:01:03.40,辉英,,0,0,0,,Marseilles tried to contact the flight crew two more times.
+Dialogue: 0,0:01:00.07,0:01:03.40,辉中,,0,0,0,,空管又试了两次
+Dialogue: 0,0:01:03.80,0:01:05.39,辉英,,0,0,0,,No answer.
+Dialogue: 0,0:01:03.80,0:01:05.39,辉中,,0,0,0,,还是没有答复
+Dialogue: 0,0:01:05.70,0:01:09.38,辉英,,0,0,0,,At 9:34 the control center tried a different frequency,
+Dialogue: 0,0:01:05.70,0:01:09.38,辉中,,0,0,0,,34分, 空管再次尝试用不同频率联系
+Dialogue: 0,0:01:10.00,0:01:12.01,辉英,,0,0,0,,but again no response.
+Dialogue: 0,0:01:10.00,0:01:12.01,辉中,,0,0,0,,机组仍然没有答复
+Dialogue: 0,0:01:12.77,0:01:15.36,辉英,,0,0,0,,From 9:35 until 9:39
+Dialogue: 0,0:01:12.77,0:01:15.36,辉中,,0,0,0,,从35分到39分
+Dialogue: 0,0:01:15.72,0:01:21.79,辉英,,0,0,0,,the Marseilles control center tried to contact the flight crew multiple times over different frequencies.
+Dialogue: 0,0:01:15.72,0:01:21.79,辉中,,0,0,0,,马赛空管坚持多次用不同频率联系机组
+Dialogue: 0,0:01:22.81,0:01:25.41,辉英,,0,0,0,,An air traffic controller from the French air defense system
+Dialogue: 0,0:01:22.81,0:01:25.41,辉中,,0,0,0,,另一架飞机 以及一位法国防空系统的管制员
+Dialogue: 0,0:01:25.58,0:01:28.32,辉英,,0,0,0,,also tried as well as another aircraft
+Dialogue: 0,0:01:25.58,0:01:28.32,辉中,,0,0,0,,也尝试联系德翼9525
+Dialogue: 0,0:01:29.52,0:01:30.89,辉英,,0,0,0,,but each time
+Dialogue: 0,0:01:29.52,0:01:30.89,辉中,,0,0,0,,然而
+Dialogue: 0,0:01:31.22,0:01:35.68,辉英,,0,0,0,,no response from Germanwings flight 9525
+Dialogue: 0,0:01:31.22,0:01:35.68,辉中,,0,0,0,,德翼9525却一直没有回复
+Dialogue: 0,0:01:37.86,0:01:40.77,辉英,,0,0,0,,At 9:40 radar contact was lost
+Dialogue: 0,0:01:37.86,0:01:40.77,辉中,,0,0,0,,9点40分, 德翼9525的雷达信号消失了
+Dialogue: 0,0:01:41.31,0:01:44.09,辉英,,0,0,0,,the French air traffic controllers triggered a distress phase
+Dialogue: 0,0:01:41.31,0:01:44.09,辉中,,0,0,0,,法国空管启动了紧急程序
+Dialogue: 0,0:01:44.09,0:01:46.65,辉英,,0,0,0,,declaring that the aircraft and its occupants
+Dialogue: 0,0:01:44.09,0:01:46.65,辉中,,0,0,0,,宣布该飞行器及其乘员
+Dialogue: 0,0:01:46.65,0:01:50.85,辉英,,0,0,0,,were in imminent danger and required immediate assistance
+Dialogue: 0,0:01:46.65,0:01:50.85,辉中,,0,0,0,,处于迫在眉睫的危机之中并需要他人立即援助
+Dialogue: 0,0:01:50.85,0:01:55.04,辉英,,0,0,0,,At 9:41 am flight Germanwings 9525
+Dialogue: 0,0:01:50.85,0:01:55.04,辉中,,0,0,0,,41分,
+Dialogue: 0,0:01:55.04,0:01:57.54,辉英,,0,0,0,,crashed into the side of a mountain in the Alps.
+Dialogue: 0,0:01:55.04,0:01:57.54,辉中,,0,0,0,,德翼9525坠毁在了阿尔卑斯山脉的一侧
+Dialogue: 0,0:01:58.68,0:01:59.48,辉英,,0,0,0,,What happened?
+Dialogue: 0,0:01:58.68,0:01:59.48,辉中,,0,0,0,,到底发生了什么？
+Dialogue: 0,0:02:03.23,0:02:05.48,辉英,,0,0,0,,The crash occurred on a remote mountain.
+Dialogue: 0,0:02:03.23,0:02:05.48,辉中,,0,0,0,,事故发生在偏远山区
+Dialogue: 0,0:02:05.48,0:02:07.61,辉英,,0,0,0,,Because there was no access by road,
+Dialogue: 0,0:02:05.48,0:02:07.61,辉中,,0,0,0,,山上没通公路
+Dialogue: 0,0:02:07.61,0:02:10.85,辉英,,0,0,0,,emergency crew had to be brought in via helicopter.
+Dialogue: 0,0:02:07.61,0:02:10.85,辉中,,0,0,0,,救援人员不得不乘直升机前往
+Dialogue: 0,0:02:11.20,0:02:13.61,辉英,,0,0,0,,The plane was completely destroyed:
+Dialogue: 0,0:02:11.20,0:02:13.61,辉中,,0,0,0,,飞机撞的粉碎
+Dialogue: 0,0:02:13.61,0:02:17.14,辉英,,0,0,0,,the debris field vast but the pieces of the craft small.
+Dialogue: 0,0:02:13.61,0:02:17.14,辉中,,0,0,0,,碎片散步的区域很大, 而碎片本身却很小
+Dialogue: 0,0:02:18.42,0:02:21.91,辉英,,0,0,0,,The cockpit voice and flight recorder were found in the same week
+Dialogue: 0,0:02:18.42,0:02:21.91,辉中,,0,0,0,,驾驶舱语音记录器和飞行数据记录仪在同一周被发现
+Dialogue: 0,0:02:21.91,0:02:23.94,辉英,,0,0,0,,although they were both severely damaged.
+Dialogue: 0,0:02:21.91,0:02:23.94,辉中,,0,0,0,,不过它们也被摔的惨烈
+Dialogue: 0,0:02:23.94,0:02:26.67,辉英,,0,0,0,,When flight investigators stitched together the data
+Dialogue: 0,0:02:23.94,0:02:26.67,辉中,,0,0,0,,当调查员整合完毕数据
+Dialogue: 0,0:02:26.67,0:02:29.28,辉英,,0,0,0,,a story of intentional action formed.
+Dialogue: 0,0:02:26.67,0:02:29.28,辉中,,0,0,0,,
+Dialogue: 0,0:02:30.24,0:02:32.15,辉英,,0,0,0,,The plane was hijacked,
+Dialogue: 0,0:02:30.24,0:02:32.15,辉中,,0,0,0,,飞机被劫持了
+Dialogue: 0,0:02:32.15,0:02:33.48,辉英,,0,0,0,,but not by terrorists.
+Dialogue: 0,0:02:32.15,0:02:33.48,辉中,,0,0,0,,只不过不是被恐怖分子劫持的
+Dialogue: 0,0:02:34.44,0:02:36.34,辉英,,0,0,0,,Let's go back.
+Dialogue: 0,0:02:34.44,0:02:36.34,辉中,,0,0,0,,我们来回顾一下
+Dialogue: 0,0:02:41.16,0:02:44.62,辉英,,0,0,0,,After the aircraft leveled off at its cruise altitude,
+Dialogue: 0,0:02:41.16,0:02:44.62,辉中,,0,0,0,,9点半, 飞机离开巡航高度后
+Dialogue: 0,0:02:44.62,0:02:48.88,辉英,,0,0,0,,the captain left the cockpit to go to the bathroom at 9:30
+Dialogue: 0,0:02:44.62,0:02:48.88,辉中,,0,0,0,,机长离开驾驶舱去了厕所
+Dialogue: 0,0:02:49.42,0:02:50.95,辉英,,0,0,0,,While he was in the bathroom,
+Dialogue: 0,0:02:49.42,0:02:50.95,辉中,,0,0,0,,他在厕所里时
+Dialogue: 0,0:02:50.95,0:02:53.18,辉英,,0,0,0,,the plane was almost immediately set
+Dialogue: 0,0:02:50.95,0:02:53.18,辉中,,0,0,0,,飞机立刻被设置了
+Dialogue: 0,0:02:53.18,0:02:55.45,辉英,,0,0,0,,for a different altitude in the cockpit
+Dialogue: 0,0:02:53.18,0:02:55.45,辉中,,0,0,0,,一个不同的高度
+Dialogue: 0,0:02:56.33,0:03:01.92,辉英,,0,0,0,,At 9:34, the captain came back and requested
+access, but he got none.
+Dialogue: 0,0:02:56.33,0:03:01.92,辉中,,0,0,0,,34分, 机长上完厕所回来
+Dialogue: 0,0:03:01.92,0:03:03.20,辉英,,0,0,0,,The door was locked.
+Dialogue: 0,0:03:01.92,0:03:03.20,辉中,,0,0,0,,但他被锁在了驾驶舱门外
+Dialogue: 0,0:03:04.53,0:03:07.23,辉英,,0,0,0,,As he stood in front of that cockpit door
+Dialogue: 0,0:03:04.53,0:03:07.23,辉中,,0,0,0,,站在舱门前
+Dialogue: 0,0:03:07.23,0:03:09.26,辉英,,0,0,0,,the captain began to understand.
+Dialogue: 0,0:03:07.23,0:03:09.26,辉中,,0,0,0,,机长明白了
+Dialogue: 0,0:03:09.90,0:03:12.66,辉英,,0,0,0,,The co-pilot had hijacked the plane
+Dialogue: 0,0:03:09.90,0:03:12.66,辉中,,0,0,0,,副机长劫持了这架飞机
+Dialogue: 0,0:03:12.66,0:03:15.70,辉英,,0,0,0,,and he had no way of getting in.
+Dialogue: 0,0:03:12.66,0:03:15.70,辉中,,0,0,0,,而他没法进入驾驶舱
+Dialogue: 0,0:03:20.10,0:03:21.37,辉英,,0,0,0,,After 2001,
+Dialogue: 0,0:03:20.10,0:03:21.37,辉中,,0,0,0,,911事件后
+Dialogue: 0,0:03:21.37,0:03:24.69,辉英,,0,0,0,,cockpits were changed in order to protect those flying the plane from potential hijackers
+Dialogue: 0,0:03:21.37,0:03:26.66,辉中,,0,0,0,,飞机驾驶舱被改装以防止可能的劫机发生
+Dialogue: 0,0:03:26.66,0:03:28.07,辉英,,0,0,0,,To enter the cockpit,
+Dialogue: 0,0:03:26.66,0:03:28.07,辉中,,0,0,0,,机组成员想进入驾驶舱
+Dialogue: 0,0:03:28.07,0:03:30.81,辉英,,0,0,0,,a crew member has to call the cockpit on the intercom
+Dialogue: 0,0:03:28.07,0:03:30.81,辉中,,0,0,0,,就必须按键盘上的井号
+Dialogue: 0,0:03:30.81,0:03:33.38,辉英,,0,0,0,,and press the pound key on a keypad,
+Dialogue: 0,0:03:30.81,0:03:33.38,辉中,,0,0,0,,用对讲系统呼叫驾驶舱
+Dialogue: 0,0:03:33.38,0:03:34.68,辉英,,0,0,0,,which buzzes the cockpit.
+Dialogue: 0,0:03:33.38,0:03:34.68,辉中,,0,0,0,,让驾驶舱里的人听到嗡嗡声
+Dialogue: 0,0:03:35.50,0:03:38.34,辉英,,0,0,0,,At that moment the pilot can switch the door control
+Dialogue: 0,0:03:35.50,0:03:38.34,辉中,,0,0,0,,这之后飞行员可以控制舱门
+Dialogue: 0,0:03:38.34,0:03:40.01,辉英,,0,0,0,,from norm to unlock,
+Dialogue: 0,0:03:38.34,0:03:40.01,辉中,,0,0,0,,将其切换到解锁状态
+Dialogue: 0,0:03:40.01,0:03:41.51,辉英,,0,0,0,,and the crew member can enter.
+Dialogue: 0,0:03:40.01,0:03:41.51,辉中,,0,0,0,,随后机组成员便可进门
+Dialogue: 0,0:03:42.54,0:03:45.20,辉英,,0,0,0,,The crew is also given emergency codes
+Dialogue: 0,0:03:42.54,0:03:45.20,辉中,,0,0,0,,机组也有应急密码
+Dialogue: 0,0:03:45.20,0:03:48.09,辉英,,0,0,0,,which they can use if there are concerns for those in the cockpit.
+Dialogue: 0,0:03:45.20,0:03:48.09,辉中,,0,0,0,,可在驾驶舱内人员出问题时使用
+Dialogue: 0,0:03:49.02,0:03:52.80,辉英,,0,0,0,,in that case the crew member will use the emergency code on the keypad
+Dialogue: 0,0:03:49.02,0:03:52.80,辉中,,0,0,0,,机组可以在键盘上输入应急密码
+Dialogue: 0,0:03:52.80,0:03:55.02,辉英,,0,0,0,,triggering a 30 second timer
+Dialogue: 0,0:03:52.80,0:03:55.02,辉中,,0,0,0,,30秒后,
+Dialogue: 0,0:03:55.02,0:03:58.83,辉英,,0,0,0,,and the cockpit door will open for 5 seconds
+Dialogue: 0,0:03:55.02,0:03:58.83,辉中,,0,0,0,,舱门就会打开5秒钟
+Dialogue: 0,0:03:58.83,0:04:02.34,辉英,,0,0,0,,however there are situations where those in the cockpit
+Dialogue: 0,0:03:58.83,0:04:02.34,辉中,,0,0,0,,然而, 在某种情况下
+Dialogue: 0,0:04:02.34,0:04:05.00,辉英,,0,0,0,,want to override the access by the crew
+Dialogue: 0,0:04:02.34,0:04:05.00,辉中,,0,0,0,,譬如被劫机时
+Dialogue: 0,0:04:05.00,0:04:07.03,辉英,,0,0,0,,like during a hijacking
+Dialogue: 0,0:04:05.00,0:04:07.03,辉中,,0,0,0,,驾驶舱里的人可以阻止机组成员开门
+Dialogue: 0,0:04:07.03,0:04:11.27,辉英,,0,0,0,,in that situation the pilots can switch the door control to lock
+Dialogue: 0,0:04:07.03,0:04:11.27,辉中,,0,0,0,,飞行员可以把舱门切换到锁定状态
+Dialogue: 0,0:04:11.27,0:04:13.44,辉英,,0,0,0,,overriding all emergency access.
+Dialogue: 0,0:04:11.27,0:04:13.44,辉中,,0,0,0,,阻止他人用应急密码开门
+Dialogue: 0,0:04:14.82,0:04:16.75,辉英,,0,0,0,,and it's that mechanism
+Dialogue: 0,0:04:14.82,0:04:16.75,辉中,,0,0,0,,德翼9525的副机长
+Dialogue: 0,0:04:16.75,0:04:18.20,辉英,,0,0,0,,that the co-pilot used
+Dialogue: 0,0:04:16.75,0:04:18.20,辉中,,0,0,0,,正是使用了这个机制
+Dialogue: 0,0:04:18.20,0:04:20.90,辉英,,0,0,0,,to permanently lock access to the cockpit
+Dialogue: 0,0:04:18.20,0:04:20.90,辉中,,0,0,0,,锁定了驾驶舱门
+Dialogue: 0,0:04:20.90,0:04:22.95,辉英,,0,0,0,,while the plane began to descend.
+Dialogue: 0,0:04:20.90,0:04:22.95,辉中,,0,0,0,,飞机开始下降时
+Dialogue: 0,0:04:24.08,0:04:26.73,辉英,,0,0,0,,The captain was locked out of the cockpit
+Dialogue: 0,0:04:24.08,0:04:26.73,辉中,,0,0,0,,机长被锁在了外边
+Dialogue: 0,0:04:27.02,0:04:28.20,辉英,,0,0,0,,without any control.
+Dialogue: 0,0:04:27.02,0:04:28.20,辉中,,0,0,0,,无法操控飞机
+Dialogue: 0,0:04:29.46,0:04:31.96,辉英,,0,0,0,,At 9:39 the cockpit voice recorder
+Dialogue: 0,0:04:29.46,0:04:31.96,辉中,,0,0,0,,39分时,
+Dialogue: 0,0:04:31.96,0:04:34.74,辉英,,0,0,0,,picked up violent blows on the cockpit door.
+Dialogue: 0,0:04:31.96,0:04:34.74,辉中,,0,0,0,,语音记录器录下了舱门上传来的猛烈撞击声
+Dialogue: 0,0:04:35.40,0:04:40.11,辉英,,0,0,0,,The captain had repeatedly tried breaking in to gain access
+Dialogue: 0,0:04:35.40,0:04:40.11,辉中,,0,0,0,,机长尝试破门
+Dialogue: 0,0:04:40.11,0:04:42.77,辉英,,0,0,0,,but the cockpit door was reinforced.
+Dialogue: 0,0:04:40.11,0:04:42.77,辉中,,0,0,0,,但舱门为反武装劫机而设计
+Dialogue: 0,0:04:42.77,0:04:45.14,辉英,,0,0,0,,Made to withstand armed hijackers
+Dialogue: 0,0:04:42.77,0:04:45.14,辉中,,0,0,0,,十分坚固
+Dialogue: 0,0:04:45.14,0:04:47.04,辉英,,0,0,0,,the captain stood little chance.
+Dialogue: 0,0:04:45.14,0:04:47.04,辉中,,0,0,0,,机长胜算微渺
+Dialogue: 0,0:04:49.11,0:04:50.70,辉英,,0,0,0,,In the last minutes
+Dialogue: 0,0:04:49.11,0:04:50.70,辉中,,0,0,0,,在最后的几分钟里
+Dialogue: 0,0:04:50.70,0:04:52.84,辉英,,0,0,0,,the passengers crew and Captain
+Dialogue: 0,0:04:50.70,0:04:52.84,辉中,,0,0,0,,机组与乘客
+Dialogue: 0,0:04:52.84,0:04:55.20,辉英,,0,0,0,,all knew that the plane was going down.
+Dialogue: 0,0:04:52.84,0:04:55.20,辉中,,0,0,0,,都了发现飞机正在坠毁
+Dialogue: 0,0:04:57.18,0:04:59.21,辉英,,0,0,0,,No one survived the crash.
+Dialogue: 0,0:04:57.18,0:04:59.21,辉中,,0,0,0,,机上144位乘客
+Dialogue: 0,0:05:00.14,0:05:02.13,辉英,,0,0,0,,144 passengers
+Dialogue: 0,0:05:00.14,0:05:02.13,辉中,,0,0,0,,4位乘务员
+Dialogue: 0,0:05:02.13,0:05:03.32,辉英,,0,0,0,,four cabin crew
+Dialogue: 0,0:05:02.13,0:05:03.32,辉中,,0,0,0,,机长及副机长
+Dialogue: 0,0:05:03.32,0:05:05.34,辉英,,0,0,0,,and the captain and co-pilot died.
+Dialogue: 0,0:05:03.32,0:05:05.34,辉中,,0,0,0,,无人幸存
+Dialogue: 0,0:05:06.18,0:05:09.72,辉英,,0,0,0,,Amongst the passengers was an entire school class
+Dialogue: 0,0:05:06.18,0:05:09.72,辉中,,0,0,0,,乘客中, 有一整个班的孩子
+Dialogue: 0,0:05:09.72,0:05:12.01,辉英,,0,0,0,,returning from a field trip to Spain.
+Dialogue: 0,0:05:09.72,0:05:12.01,辉中,,0,0,0,,在西班牙郊游完毕正返校
+Dialogue: 0,0:05:12.97,0:05:14.93,辉英,,0,0,0,,The captain Patrick Sondenheimer
+Dialogue: 0,0:05:12.97,0:05:14.93,辉中,,0,0,0,,机长帕特里克·桑德海默
+Dialogue: 0,0:05:12.97,0:05:14.93,辉注,,0,0,0,,
+Dialogue: 0,0:05:14.93,0:05:17.29,辉英,,0,0,0,,was a 34 year old father of two.
+Dialogue: 0,0:05:14.93,0:05:17.29,辉中,,0,0,0,,时年34, 膝下二儿
+Dialogue: 0,0:05:17.29,0:05:20.25,辉英,,0,0,0,,In the aftermath his wife set up a foundation in his name
+Dialogue: 0,0:05:17.29,0:05:20.25,辉中,,0,0,0,,事后, 机长的妻子以他的名义设立了一家基金会
+Dialogue: 0,0:05:20.67,0:05:23.74,辉英,,0,0,0,,intended to help children and young people handle grief and crisis.
+Dialogue: 0,0:05:20.67,0:05:23.74,辉中,,0,0,0,,来帮助儿童及年轻人应对危机与悲伤
+Dialogue: 0,0:05:24.12,0:05:26.36,辉英,,0,0,0,,He had thousands of total flight hours
+Dialogue: 0,0:05:24.12,0:05:26.36,辉中,,0,0,0,,机长有数千小时的飞行经验
+Dialogue: 0,0:05:26.58,0:05:30.32,辉英,,0,0,0,,and his last moments were dedicated to trying to save the plane and passengers.
+Dialogue: 0,0:05:26.58,0:05:30.32,辉中,,0,0,0,,直到最后一刻, 他还在力图挽救乘客与飞机
+Dialogue: 0,0:05:36.00,0:05:39.10,辉英,,0,0,0,,The co-pilot was 27 years old
+Dialogue: 0,0:05:36.00,0:05:39.10,辉中,,0,0,0,,副机长时年27
+Dialogue: 0,0:05:39.10,0:05:43.46,辉英,,0,0,0,,and from a young age he was passionate about flying.
+Dialogue: 0,0:05:39.10,0:05:43.46,辉中,,0,0,0,,从小他就热衷于飞行
+Dialogue: 0,0:05:43.46,0:05:47.32,辉英,,0,0,0,,His bedroom had posters of Airbus Boeing and Lufthansa
+Dialogue: 0,0:05:43.46,0:05:47.32,辉中,,0,0,0,,他的卧室里贴着波音、空客与汉莎航空的海报
+Dialogue: 0,0:05:47.32,0:05:50.22,辉英,,0,0,0,,and he'd become an expert glider pilot as a child.
+Dialogue: 0,0:05:47.32,0:05:50.22,辉中,,0,0,0,,他小时候就精通于滑翔机驾驶
+Dialogue: 0,0:05:50.92,0:05:54.23,辉英,,0,0,0,,He joined Lufthansa's Flight Academy straight out of school,
+Dialogue: 0,0:05:50.92,0:05:54.23,辉中,,0,0,0,,他一毕业就加入了汉莎航空的飞行学院
+Dialogue: 0,0:05:54.23,0:05:56.90,辉英,,0,0,0,,but only a few months into the program
+Dialogue: 0,0:05:54.23,0:05:56.90,辉中,,0,0,0,,但仅仅几个月后
+Dialogue: 0,0:05:56.90,0:05:57.82,辉英,,0,0,0,,he stopped.
+Dialogue: 0,0:05:56.90,0:05:57.82,辉中,,0,0,0,,他就被停飞了
+Dialogue: 0,0:05:58.86,0:06:02.15,辉英,,0,0,0,,He was suffering from a deep depressive episode
+Dialogue: 0,0:05:58.86,0:06:02.15,辉中,,0,0,0,,他正经历着一次严重的抑郁症发作
+Dialogue: 0,0:06:02.15,0:06:03.98,辉英,,0,0,0,,treated with antidepressants
+Dialogue: 0,0:06:02.15,0:06:03.98,辉中,,0,0,0,,同时在服用抗抑郁药物
+Dialogue: 0,0:06:03.98,0:06:07.97,辉英,,0,0,0,,and spent multiple months in the care of a psychiatrist.
+Dialogue: 0,0:06:03.98,0:06:07.97,辉中,,0,0,0,,并接受了长达数月的治疗
+Dialogue: 0,0:06:07.97,0:06:11.09,辉英,,0,0,0,,Eventually he received a medical recommendation
+Dialogue: 0,0:06:07.97,0:06:11.09,辉中,,0,0,0,,最终他收到了一份医疗建议
+Dialogue: 0,0:06:11.09,0:06:12.73,辉英,,0,0,0,,declaring that he was in remission.
+Dialogue: 0,0:06:11.09,0:06:12.73,辉中,,0,0,0,,宣布他已处于缓解期
+Dialogue: 0,0:06:13.37,0:06:14.87,辉英,,0,0,0,,After a few months
+Dialogue: 0,0:06:13.37,0:06:14.87,辉中,,0,0,0,,数月后
+Dialogue: 0,0:06:14.87,0:06:19.48,辉英,,0,0,0,,his student pilot license and fit to fly medical certificate were restored,
+Dialogue: 0,0:06:14.87,0:06:19.48,辉中,,0,0,0,,他的学生飞行员执照与适航医疗证明被恢复
+Dialogue: 0,0:06:19.79,0:06:22.96,辉英,,0,0,0,,but if he needed any more psychiatric treatment
+Dialogue: 0,0:06:19.79,0:06:22.96,辉中,,0,0,0,,不过如果仍需要进一步的心理治疗
+Dialogue: 0,0:06:22.96,0:06:25.08,辉英,,0,0,0,,he'd be grounded from flying.
+Dialogue: 0,0:06:22.96,0:06:25.08,辉中,,0,0,0,,他就会被停飞
+Dialogue: 0,0:06:25.80,0:06:27.88,辉英,,0,0,0,,But he continued with his training
+Dialogue: 0,0:06:25.80,0:06:27.88,辉中,,0,0,0,,但他继续进行训练
+Dialogue: 0,0:06:27.88,0:06:30.00,辉英,,0,0,0,,until he ran into a problem.
+Dialogue: 0,0:06:27.88,0:06:30.00,辉中,,0,0,0,,直到撞上南墙
+Dialogue: 0,0:06:30.66,0:06:35.55,辉英,,0,0,0,,While filling out a document required by the U.S Federal Aviation Administration
+Dialogue: 0,0:06:30.66,0:06:35.55,辉中,,0,0,0,,在填写一份由美国联邦航空管理局(FAA)要求的文件,
+Dialogue: 0,0:06:35.55,0:06:40.11,辉英,,0,0,0,,to fly at an Arizona based Lufthansa operated flight school
+Dialogue: 0,0:06:35.55,0:06:40.11,辉中,,0,0,0,,以在亚利桑那州的一家汉莎航空旗下航校飞行时
+Dialogue: 0,0:06:40.11,0:06:42.51,辉英,,0,0,0,,he said that he had never been diagnosed
+Dialogue: 0,0:06:40.11,0:06:42.51,辉中,,0,0,0,,他说他从未被诊断
+Dialogue: 0,0:06:42.51,0:06:43.92,辉英,,0,0,0,,with any mental disorders.
+Dialogue: 0,0:06:42.51,0:06:43.92,辉中,,0,0,0,,患有任何精神疾病
+Dialogue: 0,0:06:44.94,0:06:47.29,辉英,,0,0,0,,This was a lie
+Dialogue: 0,0:06:44.94,0:06:47.29,辉中,,0,0,0,,这是个谎言
+Dialogue: 0,0:06:47.29,0:06:48.90,辉英,,0,0,0,,and he got caught.
+Dialogue: 0,0:06:47.29,0:06:48.90,辉中,,0,0,0,,而他被揭穿了
+Dialogue: 0,0:06:48.90,0:06:52.28,辉英,,0,0,0,,Lying on an FAA application can lead to a jail offense
+Dialogue: 0,0:06:48.90,0:06:52.28,辉中,,0,0,0,,在FAA申请中造假可能构成刑事犯罪
+Dialogue: 0,0:06:52.28,0:06:54.54,辉英,,0,0,0,,or the end of a flying career,
+Dialogue: 0,0:06:52.28,0:06:54.54,辉中,,0,0,0,,也可能终结他的飞行生涯
+Dialogue: 0,0:06:54.54,0:06:58.22,辉英,,0,0,0,,but the FAA gave him a second chance.
+Dialogue: 0,0:06:54.54,0:06:58.22,辉中,,0,0,0,,但FAA给了他第二次机会
+Dialogue: 0,0:06:58.22,0:06:59.68,辉英,,0,0,0,,He admitted to depression
+Dialogue: 0,0:06:58.22,0:06:59.68,辉中,,0,0,0,,他承认他患有抑郁症
+Dialogue: 0,0:06:59.68,0:07:02.54,辉英,,0,0,0,,and was accepted to go to Arizona.
+Dialogue: 0,0:06:59.68,0:07:02.54,辉中,,0,0,0,,并获得许可前往亚利桑那航校
+Dialogue: 0,0:07:02.54,0:07:05.45,辉英,,0,0,0,,In 2013 he joined Germanwings
+Dialogue: 0,0:07:02.54,0:07:05.45,辉中,,0,0,0,,2013年, 他加入了德国之翼航空, 
+Dialogue: 0,0:07:05.45,0:07:07.80,辉英,,0,0,0,,a low-budget Airline owned by Lufthansa.
+Dialogue: 0,0:07:05.45,0:07:07.80,辉中,,0,0,0,,一家汉莎航空旗下的廉价航空公司
+Dialogue: 0,0:07:08.70,0:07:12.07,辉英,,0,0,0,,And a year later his depression returned.
+Dialogue: 0,0:07:08.70,0:07:12.07,辉中,,0,0,0,,一年后, 他的抑郁症又复发了
+Dialogue: 0,0:07:13.06,0:07:15.66,辉英,,0,0,0,,He thought he was going blind,
+Dialogue: 0,0:07:13.06,0:07:15.66,辉中,,0,0,0,,他认为他要失明了
+Dialogue: 0,0:07:15.66,0:07:19.58,辉英,,0,0,0,,visiting ophthalmologists and neurologists multiple times per week
+Dialogue: 0,0:07:15.66,0:07:19.58,辉中,,0,0,0,,每周都要去看几次眼科医生
+Dialogue: 0,0:07:19.58,0:07:26.21,辉英,,0,0,0,,because he was seeing stars, halos, flashes of light, streaks, and flying insects
+Dialogue: 0,0:07:19.58,0:07:26.21,辉中,,0,0,0,,因为他眼前总能看到星星, 光晕, 闪光, 线条与飞虫
+Dialogue: 0,0:07:26.21,0:07:28.62,辉英,,0,0,0,,But the doctor's scans didn't find much.
+Dialogue: 0,0:07:26.21,0:07:28.62,辉中,,0,0,0,,但医生进行的扫描却什么都没发现
+Dialogue: 0,0:07:29.40,0:07:32.73,辉英,,0,0,0,,He was diagnosed with hypochondriacal disorder
+Dialogue: 0,0:07:29.40,0:07:32.73,辉中,,0,0,0,,他被诊断患有疑病症
+Dialogue: 0,0:07:29.40,0:07:32.73,辉注,,0,0,0,,
+Dialogue: 0,0:07:32.73,0:07:35.76,辉英,,0,0,0,,as well as emergent psychosis from his family doctor.
+Dialogue: 0,0:07:32.73,0:07:35.76,辉中,,0,0,0,,其家庭医生亦诊断他患有急性精神病
+Dialogue: 0,0:07:36.48,0:07:40.28,辉英,,0,0,0,,And that doctor urged him to go to a psychiatric clinic,
+Dialogue: 0,0:07:36.48,0:07:40.28,辉中,,0,0,0,,家庭医生敦促他去精神病院
+Dialogue: 0,0:07:40.28,0:07:42.46,辉英,,0,0,0,,but he do no such thing.
+Dialogue: 0,0:07:40.28,0:07:42.46,辉中,,0,0,0,,他没去
+Dialogue: 0,0:07:42.46,0:07:45.16,辉英,,0,0,0,,Instead in January of 2015
+Dialogue: 0,0:07:42.46,0:07:45.16,辉中,,0,0,0,,但在2015年1月
+Dialogue: 0,0:07:45.16,0:07:47.11,辉英,,0,0,0,,he returned to the psychiatrist
+Dialogue: 0,0:07:45.16,0:07:47.11,辉中,,0,0,0,,他去看了精神科医生
+Dialogue: 0,0:07:47.11,0:07:48.54,辉英,,0,0,0,,that had helped him in the first place.
+Dialogue: 0,0:07:47.11,0:07:48.54,辉中,,0,0,0,,这一定程度上帮助了他
+Dialogue: 0,0:07:49.20,0:07:51.18,辉英,,0,0,0,,He received Psychotherapy
+Dialogue: 0,0:07:49.20,0:07:51.18,辉中,,0,0,0,,他接受了心理治疗
+Dialogue: 0,0:07:51.18,0:07:53.30,辉英,,0,0,0,,and went on heavy antidepressants
+Dialogue: 0,0:07:51.18,0:07:53.30,辉中,,0,0,0,,在工作与飞行的同时
+Dialogue: 0,0:07:53.30,0:07:55.14,辉英,,0,0,0,,while continuing to work and fly.
+Dialogue: 0,0:07:53.30,0:07:55.14,辉中,,0,0,0,,大量服用抗抑郁药
+Dialogue: 0,0:07:56.10,0:07:58.00,辉英,,0,0,0,,From February to March
+Dialogue: 0,0:07:56.10,0:07:58.00,辉中,,0,0,0,,从二月到三月
+Dialogue: 0,0:07:58.00,0:08:01.21,辉英,,0,0,0,,he received multiple sick notes from multiple doctors.
+Dialogue: 0,0:07:58.00,0:08:01.21,辉中,,0,0,0,,他从数位医生处收到了多份病假条
+Dialogue: 0,0:08:01.92,0:08:05.32,辉英,,0,0,0,,He wasn't alright and he wanted something to change.
+Dialogue: 0,0:08:01.92,0:08:05.32,辉中,,0,0,0,,他感觉不好, 并希望求得改变
+Dialogue: 0,0:08:06.96,0:08:08.86,辉英,,0,0,0,,Four days before the crash
+Dialogue: 0,0:08:06.96,0:08:08.86,辉中,,0,0,0,,事故发生的四天前
+Dialogue: 0,0:08:08.86,0:08:12.27,辉英,,0,0,0,,he turned to his computer to understand the locking mechanism
+Dialogue: 0,0:08:08.86,0:08:12.27,辉中,,0,0,0,,他打开电脑
+Dialogue: 0,0:08:12.27,0:08:15.54,辉英,,0,0,0,,on the Airbus A320 cockpit door.
+Dialogue: 0,0:08:12.27,0:08:15.54,辉中,,0,0,0,,学习A320的驾驶舱门锁定机制
+Dialogue: 0,0:08:15.54,0:08:18.70,辉英,,0,0,0,,On his outbound flight from Dusseldorf to Barcelona
+Dialogue: 0,0:08:15.54,0:08:18.70,辉中,,0,0,0,,在从杜塞尔多夫到巴塞罗那的国际航班上
+Dialogue: 0,0:08:18.70,0:08:21.72,辉英,,0,0,0,,he tested the descent settings for a moment
+Dialogue: 0,0:08:18.70,0:08:21.72,辉中,,0,0,0,,机长桑德海默在驾驶舱外时
+Dialogue: 0,0:08:21.72,0:08:24.00,辉英,,0,0,0,,while Sondenheimer was outside the cockpit.
+Dialogue: 0,0:08:21.72,0:08:24.00,辉中,,0,0,0,,他测试了一下飞机的下降设置
+Dialogue: 0,0:08:24.90,0:08:26.58,辉英,,0,0,0,,On the return flight
+Dialogue: 0,0:08:24.90,0:08:26.58,辉中,,0,0,0,,在回程的航班上
+Dialogue: 0,0:08:26.58,0:08:28.62,辉英,,0,0,0,,he used it to bring down the plane.
+Dialogue: 0,0:08:26.58,0:08:28.62,辉中,,0,0,0,,他以此让飞机坠毁
+Dialogue: 0,0:08:29.91,0:08:31.64,辉英,,0,0,0,,How could this have happened?
+Dialogue: 0,0:08:29.91,0:08:31.64,辉中,,0,0,0,,这本不该发生
+Dialogue: 0,0:08:32.80,0:08:36.22,辉英,,0,0,0,,Pilots are required to do Health screenings and annual checkups,
+Dialogue: 0,0:08:32.80,0:08:36.22,辉中,,0,0,0,,飞行员必须进行体检
+Dialogue: 0,0:08:36.22,0:08:39.87,辉英,,0,0,0,,but mental health is easier overlooked than physical.
+Dialogue: 0,0:08:36.22,0:08:39.87,辉中,,0,0,0,,但精神健康比身体健康更容易被忽视
+Dialogue: 0,0:08:39.87,0:08:42.09,辉英,,0,0,0,,Since pilots operate under an honor system
+Dialogue: 0,0:08:39.87,0:08:42.09,辉中,,0,0,0,,由于飞行员遵循荣誉制度
+Dialogue: 0,0:08:42.09,0:08:44.93,辉英,,0,0,0,,they're expected to self-evaluate their health.
+Dialogue: 0,0:08:42.09,0:08:44.93,辉中,,0,0,0,,他们需要自行评估其自身健康水平
+Dialogue: 0,0:08:44.93,0:08:46.78,辉英,,0,0,0,,And this can be an issue.
+Dialogue: 0,0:08:44.93,0:08:46.78,辉中,,0,0,0,,这可能引起一些问题
+Dialogue: 0,0:08:46.78,0:08:49.82,辉英,,0,0,0,,The co-pilot was declared unfit to work by his doctor,
+Dialogue: 0,0:08:46.78,0:08:49.82,辉中,,0,0,0,,德翼9525航班的副机长被其医生宣布不适宜继续工作
+Dialogue: 0,0:08:49.82,0:08:52.83,辉英,,0,0,0,,but he decided to just not tell his employer.
+Dialogue: 0,0:08:49.82,0:08:52.83,辉中,,0,0,0,,但他本人决定不将此事告知其雇主
+Dialogue: 0,0:08:53.50,0:08:56.87,辉英,,0,0,0,,But if someone like him is a risk to Public Safety
+Dialogue: 0,0:08:53.50,0:08:56.87,辉中,,0,0,0,,但假若某人像这位副机长一样可能危害公共安全
+Dialogue: 0,0:08:56.87,0:09:00.21,辉英,,0,0,0,,a doctor can break doctor-patient confidentiality
+Dialogue: 0,0:08:56.87,0:09:00.21,辉中,,0,0,0,,医生可以打破医患保密 协议
+Dialogue: 0,0:09:00.21,0:09:02.68,辉英,,0,0,0,,and report him to authorities.
+Dialogue: 0,0:09:00.21,0:09:02.68,辉中,,0,0,0,,并向当局举报其患者
+Dialogue: 0,0:09:04.32,0:09:07.57,辉英,,0,0,0,,So why didn't at least one of the multiple doctors
+Dialogue: 0,0:09:04.32,0:09:07.57,辉中,,0,0,0,,所以, 为什么这么多写了病假条
+Dialogue: 0,0:09:07.57,0:09:09.54,辉英,,0,0,0,,who wrote multiple sick notes
+Dialogue: 0,0:09:07.57,0:09:09.54,辉中,,0,0,0,,并宣布他不适航的医生
+Dialogue: 0,0:09:09.54,0:09:11.91,辉英,,0,0,0,,and declared him unfit to fly
+Dialogue: 0,0:09:09.54,0:09:11.91,辉中,,0,0,0,,其中没有一位
+Dialogue: 0,0:09:11.91,0:09:15.60,辉英,,0,0,0,,think that the co-pilot may have presented a risk for public safety?
+Dialogue: 0,0:09:11.91,0:09:15.60,辉中,,0,0,0,,认为这位副机长可能危害公共安全呢？
+Dialogue: 0,0:09:16.26,0:09:17.85,辉英,,0,0,0,,Enough of a risk
+Dialogue: 0,0:09:16.26,0:09:17.85,辉中,,0,0,0,,
+Dialogue: 0,0:09:17.85,0:09:20.37,辉英,,0,0,0,,that he couldn't be trusted to report himself?
+Dialogue: 0,0:09:17.85,0:09:20.37,辉中,,0,0,0,,
+Dialogue: 0,0:09:21.41,0:09:22.69,辉英,,0,0,0,,We don't know.
+Dialogue: 0,0:09:21.41,0:09:22.69,辉中,,0,0,0,,我们不得而知
+Dialogue: 0,0:09:23.28,0:09:26.69,辉英,,0,0,0,,The doctors may have believed the co-pilot was a risk to himself,
+Dialogue: 0,0:09:23.28,0:09:26.69,辉中,,0,0,0,,医生们或许认为副机长仅对其自身
+Dialogue: 0,0:09:26.69,0:09:28.19,辉英,,0,0,0,,but not to others.
+Dialogue: 0,0:09:26.69,0:09:28.19,辉中,,0,0,0,,而非其他人构成威胁
+Dialogue: 0,0:09:28.19,0:09:30.71,辉英,,0,0,0,,Being depressed does not make you a killer.
+Dialogue: 0,0:09:28.19,0:09:30.71,辉中,,0,0,0,,患抑郁症不会让你变成杀人凶手
+Dialogue: 0,0:09:31.67,0:09:34.80,辉英,,0,0,0,,Or maybe the doctors were just scared.
+Dialogue: 0,0:09:31.67,0:09:34.80,辉中,,0,0,0,,或许医生们只是害怕
+Dialogue: 0,0:09:34.80,0:09:40.00,辉英,,0,0,0,,Breaking doctor-patient confidentiality does not come without risks.
+Dialogue: 0,0:09:34.80,0:09:40.00,辉中,,0,0,0,,打破医患保密 协议不是没有风险的
+Dialogue: 0,0:09:40.00,0:09:43.02,辉英,,0,0,0,,It's even possible cultural factors could have played a role.
+Dialogue: 0,0:09:40.00,0:09:43.02,辉中,,0,0,0,,文化也可能是因素之一
+Dialogue: 0,0:09:45.48,0:09:48.78,辉英,,0,0,0,,Privacy and data protection are valued really highly in Germany.
+Dialogue: 0,0:09:45.48,0:09:48.78,辉中,,0,0,0,,隐私与数据保护在德国极受重视
+Dialogue: 0,0:09:50.10,0:09:54.00,辉英,,0,0,0,,But trying to understand why doctor-patient confidentiality wasn't broken
+Dialogue: 0,0:09:50.10,0:09:54.00,辉中,,0,0,0,,理解医患保密之间的保密关系没被破坏的原因
+Dialogue: 0,0:09:54.00,0:09:59.54,辉英,,0,0,0,,is a dilemma an issue best left to healthcare professionals and ethics professors.
+Dialogue: 0,0:09:54.00,0:09:59.54,辉中,,0,0,0,,是个最好由医疗专业人员和伦理学教授来处理的难题
+Dialogue: 0,0:09:59.54,0:10:02.05,辉英,,0,0,0,,And unfortunately we're YouTubers.
+Dialogue: 0,0:09:59.54,0:10:02.05,辉中,,0,0,0,,很遗憾, 我们只是UP主
+Dialogue: 0,0:10:02.05,0:10:04.50,辉英,,0,0,0,,So we encourage you to read more about it in these articles.
+Dialogue: 0,0:10:02.05,0:10:04.50,辉中,,0,0,0,,所以我们推荐你通过阅读这些文章来了解更多
+Dialogue: 0,0:10:08.98,0:10:11.28,辉英,,0,0,0,,Nonetheless when you're watching this today
+Dialogue: 0,0:10:08.98,0:10:11.28,辉中,,0,0,0,,在你观看这期视频时
+Dialogue: 0,0:10:11.28,0:10:14.05,辉英,,0,0,0,,it's important to understand that this type of incident
+Dialogue: 0,0:10:11.28,0:10:14.05,辉中,,0,0,0,,你应当明白
+Dialogue: 0,0:10:14.05,0:10:16.25,辉英,,0,0,0,,is incredibly unlikely.
+Dialogue: 0,0:10:14.05,0:10:16.25,辉中,,0,0,0,,发生此类事件的可能性极低
+Dialogue: 0,0:10:16.25,0:10:19.41,辉英,,0,0,0,,In the aftermath the European Aviation Safety Agency
+Dialogue: 0,0:10:16.25,0:10:19.41,辉中,,0,0,0,,事故发生后, 欧洲航空安全局
+Dialogue: 0,0:10:19.41,0:10:22.26,辉英,,0,0,0,,proposed multiple safety regulations.
+Dialogue: 0,0:10:19.41,0:10:22.26,辉中,,0,0,0,,出台了多项安全规定
+Dialogue: 0,0:10:22.26,0:10:25.00,辉英,,0,0,0,,Psychological screening for pilots increased
+Dialogue: 0,0:10:22.26,0:10:25.00,辉中,,0,0,0,,对飞行员的精神健康检测次数增多
+Dialogue: 0,0:10:25.00,0:10:30.17,辉英,,0,0,0,,and multiple Airlines adopted a two-person in the cockpit at all-time rule
+Dialogue: 0,0:10:25.00,0:10:30.17,辉中,,0,0,0,,多家航司亦实施了驾驶舱内必须始终有两人的规定
+Dialogue: 0,0:10:30.17,0:10:32.52,辉英,,0,0,0,,although Lufthansa has recently phased this out.
+Dialogue: 0,0:10:30.17,0:10:32.52,辉中,,0,0,0,,尽管汉莎航空已于近期取消了这一规定
+Dialogue: 0,0:10:33.18,0:10:37.15,辉英,,0,0,0,,In 2015 Germanwings was rebranded to Eurowings.
+Dialogue: 0,0:10:33.18,0:10:37.15,辉中,,0,0,0,,2015年, 德国之翼航空公司更名为欧洲之翼
+Dialogue: 0,0:10:37.15,0:10:39.12,辉英,,0,0,0,,The decision was made prior to the crash.
+Dialogue: 0,0:10:37.15,0:10:39.12,辉中,,0,0,0,,这一决策是在坠机事故前做出的
+Dialogue: 0,0:10:39.90,0:10:43.73,辉英,,0,0,0,,In the end Lufthansa compensated the families of the victims
+Dialogue: 0,0:10:39.90,0:10:43.73,辉中,,0,0,0,,最后, 汉莎航空对受害者家属进行了赔偿
+Dialogue: 0,0:10:43.73,0:10:46.74,辉英,,0,0,0,,but there are questions about whether it was enough.
+Dialogue: 0,0:10:43.73,0:10:46.74,辉中,,0,0,0,,但也存在对赔偿是否足够的质疑
+Dialogue: 0,0:10:46.83,0:10:50.01,辉英,,0,0,0,,The families have faced losses that no money can heal.
+Dialogue: 0,0:10:46.83,0:10:50.01,辉中,,0,0,0,,受害者家属所面临的悲痛不是金钱可以治愈的
+Dialogue: 0,0:10:54.33,0:10:57.54,辉英,,0,0,0,,Hopefully you enjoyed this video, it was insanely hard to make.
+Dialogue: 0,0:10:54.33,0:10:57.54,辉中,,0,0,0,,希望你喜欢这期视频, 它的制作真的非常困难
+Dialogue: 0,0:10:57.54,0:10:59.33,辉英,,0,0,0,,We love animation and deep research
+Dialogue: 0,0:10:57.54,0:10:59.33,辉中,,0,0,0,,我们乐于进行深度调查并制作动画
+Dialogue: 0,0:10:59.33,0:11:00.37,辉英,,0,0,0,,but it's expensive.
+Dialogue: 0,0:10:59.33,0:11:00.37,辉中,,0,0,0,,但这样做的代价十分高昂
+Dialogue: 0,0:11:00.37,0:11:02.08,辉英,,0,0,0,,That's why we have sponsors on this channel.
+Dialogue: 0,0:11:00.37,0:11:02.08,辉中,,0,0,0,,所以接下来是恰饭时间:)
+Dialogue: 0,0:11:02.08,0:11:04.12,辉英,,0,0,0,,By the way a lot of our animation in particular
+Dialogue: 0,0:11:02.08,0:11:04.12,辉中,,0,0,0,,我们有一堆动画
+Dialogue: 0,0:11:04.12,0:11:05.67,辉英,,0,0,0,,actually has a lot to do with math,
+Dialogue: 0,0:11:04.12,0:11:05.67,辉中,,0,0,0,,制作它们需要做一堆数学高考卷
+Dialogue: 0,0:11:05.67,0:11:08.34,辉英,,0,0,0,,be it geometry or linear algebra for specific shaders
+Dialogue: 0,0:11:05.67,0:11:08.34,辉中,,0,0,0,,be like: VS Code & blender：你好
+Dialogue: 0,0:11:08.34,0:11:10.67,辉英,,0,0,0,,or code for scripted and procedural animation.
+Dialogue: 0,0:11:08.34,0:11:10.67,辉中,,0,0,0,,几何&线性代数：那你再看看你后面呢
+Dialogue: 0,0:11:10.67,0:11:12.44,辉英,,0,0,0,,Both can be exciting and fascinating
+Dialogue: 0,0:11:10.67,0:11:12.44,辉中,,0,0,0,,原来, 数学也可以这么迷人吗
+Dialogue: 0,0:11:12.44,0:11:14.34,辉英,,0,0,0,,especially if taught in a playful manner.
+Dialogue: 0,0:11:12.44,0:11:14.34,辉中,,0,0,0,,哈哈, 那就厉害了(指Brilliant)
+Dialogue: 0,0:11:14.34,0:11:15.63,辉英,,0,0,0,,That's where Brilliant comes in.
+Dialogue: 0,0:11:14.34,0:11:15.63,辉中,,0,0,0,,Brilliant不仅在数学上寓教于乐
+Dialogue: 0,0:11:15.63,0:11:18.19,辉英,,0,0,0,,It gives you skills that can be applied to everything literally,
+Dialogue: 0,0:11:15.63,0:11:18.19,辉中,,0,0,0,,它还提供在你B上付费的AI课
+Dialogue: 0,0:11:18.19,0:11:21.97,辉英,,0,0,0,,be it basic logic artificial intelligence data science or physics.
+Dialogue: 0,0:11:18.19,0:11:21.97,辉中,,0,0,0,,教会你可用于生活方方面面的小知识小巧思, 
+Dialogue: 0,0:11:21.97,0:11:24.96,辉英,,0,0,0,,But it gives it to you in a way that isn't earth-shatteringly boring.
+Dialogue: 0,0:11:21.97,0:11:24.96,辉中,,0,0,0,,譬如在不触发烟雾报警器的情况下炒好糖色
+Dialogue: 0,0:11:24.96,0:11:28.51,辉英,,0,0,0,,To try everything brilliant has to offer free for a full 30 days
+Dialogue: 0,0:11:24.96,0:11:28.51,辉中,,0,0,0,,我们还支持30天免费试用
+Dialogue: 0,0:11:28.51,0:11:32.28,辉英,,0,0,0,,visit brilliant.org/fern or click on the link in the description.
+Dialogue: 0,0:11:28.51,0:11:32.28,辉中,,0,0,0,,动动你发财的小手点点屏幕下方小黄车了解更多哦亲
+Dialogue: 0,0:11:32.28,0:11:36.33,辉英,,0,0,0,,The first 200 of you will get 20 off of Brilliant's annual premium subscription.
+Dialogue: 0,0:11:32.28,0:11:36.33,辉中,,0,0,0,,刚刚接到通知, 前200位点进链接的宝宝还能喜提8折年度大会员
+Dialogue: 0,0:11:36.33,0:11:40.71,辉英,,0,0,0,,You always have your phone on you, which means Brilliant always gives you access to learn math and science anywhere
+Dialogue: 0,0:11:36.33,0:11:40.71,辉中,,0,0,0,,bro的手机不离身, Brilliant可能倒闭但永不变质的大会员服务也如影随形
+Dialogue: 0,0:11:40.71,0:11:42.84,辉英,,0,0,0,,even if it's only for a few minutes each day.
+Dialogue: 0,0:11:40.71,0:11:42.84,辉中,,0,0,0,,时间就是海绵里的水
+Dialogue: 0,0:11:42.84,0:11:45.13,辉英,,0,0,0,,You can improve your skills while in a tram, walking
+Dialogue: 0,0:11:42.84,0:11:45.13,辉中,,0,0,0,,给Brilliant挤几滴
+Dialogue: 0,0:11:45.13,0:11:47.46,辉英,,0,0,0,,or while your significant other is trying to connect with you.
+Dialogue: 0,0:11:45.13,0:11:47.46,辉中,,0,0,0,,bro的大脑就能LEVEL UP
+Dialogue: 0,0:11:47.46,0:11:48.79,辉英,,0,0,0,,We personally love the app.
+Dialogue: 0,0:11:47.46,0:11:48.79,辉中,,0,0,0,,我们私下很喜欢这款APP
+Dialogue: 0,0:11:48.79,0:11:50.76,辉英,,0,0,0,,There's something incredibly satisfying
+Dialogue: 0,0:11:48.79,0:11:50.76,辉中,,0,0,0,,学到真芝士
+Dialogue: 0,0:11:50.76,0:11:52.16,辉英,,0,0,0,,about really getting something
+Dialogue: 0,0:11:50.76,0:11:52.16,辉中,,0,0,0,,还有解出高考最后一题
+Dialogue: 0,0:11:52.16,0:11:54.62,辉英,,0,0,0,,about solving puzzle or logic problem.
+Dialogue: 0,0:11:52.16,0:11:54.62,辉中,,0,0,0,,所带来的满足感是无与伦比的
+Dialogue: 0,0:11:54.62,0:11:55.64,辉英,,0,0,0,,Why don't you give it a try.
+Dialogue: 0,0:11:54.62,0:11:55.64,辉中,,0,0,0,,话都说到这份上了, 你又何不一试呢？
