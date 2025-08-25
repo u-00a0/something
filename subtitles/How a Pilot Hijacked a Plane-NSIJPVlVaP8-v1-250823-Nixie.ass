@@ -178,9 +178,9 @@ Dialogue: 0,0:04:14.82,0:04:16.75,辉中,,0,0,0,,德翼9525的副机长
 Dialogue: 0,0:04:16.75,0:04:18.20,辉英,,0,0,0,,that the co-pilot used
 Dialogue: 0,0:04:16.75,0:04:18.20,辉中,,0,0,0,,正是使用了这个机制
 Dialogue: 0,0:04:18.20,0:04:20.90,辉英,,0,0,0,,to permanently lock access to the cockpit
-Dialogue: 0,0:04:18.20,0:04:20.90,辉中,,0,0,0,,锁定了驾驶舱门
+Dialogue: 0,0:04:18.20,0:04:20.90,辉中,,0,0,0,,在飞机开始下降时
 Dialogue: 0,0:04:20.90,0:04:22.95,辉英,,0,0,0,,while the plane began to descend.
-Dialogue: 0,0:04:20.90,0:04:22.95,辉中,,0,0,0,,飞机开始下降时
+Dialogue: 0,0:04:20.90,0:04:22.95,辉中,,0,0,0,,锁定了驾驶舱门
 Dialogue: 0,0:04:24.08,0:04:26.73,辉英,,0,0,0,,The captain was locked out of the cockpit
 Dialogue: 0,0:04:24.08,0:04:26.73,辉中,,0,0,0,,机长被锁在了外边
 Dialogue: 0,0:04:27.02,0:04:28.20,辉英,,0,0,0,,without any control.
@@ -227,6 +227,7 @@ Dialogue: 0,0:05:24.12,0:05:26.36,辉英,,0,0,0,,He had thousands of total fligh
 Dialogue: 0,0:05:24.12,0:05:26.36,辉中,,0,0,0,,机长有数千小时的飞行经验
 Dialogue: 0,0:05:26.58,0:05:30.32,辉英,,0,0,0,,and his last moments were dedicated to trying to save the plane and passengers.
 Dialogue: 0,0:05:26.58,0:05:30.32,辉中,,0,0,0,,直到最后一刻, 他还在力图挽救乘客与飞机
+Dialogue: 0,0:05:33.51,0:05:35.84,辉注,,0,0,0,,以下内容可能引起部分观众不适, 建议观众自行斟酌是否观看
 Dialogue: 0,0:05:36.00,0:05:39.10,辉英,,0,0,0,,The co-pilot was 27 years old
 Dialogue: 0,0:05:36.00,0:05:39.10,辉中,,0,0,0,,副机长时年27
 Dialogue: 0,0:05:39.10,0:05:43.46,辉英,,0,0,0,,and from a young age he was passionate about flying.
