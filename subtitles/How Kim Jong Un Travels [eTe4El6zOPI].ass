@@ -24,17 +24,17 @@ Style: Yahei-1920x1080,微软雅黑,60,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E08
 Style: Yahai-4K,微软雅黑,120,&H00FFFFFF,&H00FFFFFF,&H16534241,&HE12E2625,0,0,0,0,100.0,100.0,0.0,0.0,1,4.5,2.5,2,200,200,110,1
 Style: OneFX,楷体,54,&H00FFFE67,&H000000FF,&H00A4671B,&H914F310D,-1,-1,-1,0,100.0,120.0,0.0,10.32258,1,5.6910567,4.268293,2,10,10,80,1
 Style: BarFX,微软雅黑,18,&H00FFFBDB,&H000000FF,&H9E49FF16,&H66383726,0,0,0,0,100.0,100.0,0.0,0.0,1,2.0,1.0,2,0,0,4,1
-Style: 中,HarmonyOS Sans SC,109,&H00FFFFFF,&H000000FF,&H009C5600,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,5.0,2.0,2,10,10,100,1
+Style: 中,HarmonyOS Sans SC,109,&H00FFFFFF,&H000000FF,&H009C5600,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.0,2.0,2,10,10,100,1
 Style: 英,HarmonyOS Sans,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,2.0,2.0,2,10,10,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.54,0:00:03.04,英,atg1,0,0,0,,{\fad(120,120)}This is the Taeyang-go.
-Dialogue: 1,0:00:00.54,0:00:03.04,中,atg2,0,0,0,,{\fad(120,120)}这, 是太阳号列车
+Dialogue: 2,0:00:00.54,0:00:03.02,英,atg1,0,0,0,,{\fad(120,120)}This is the Taeyangho.
+Dialogue: 1,0:00:00.54,0:00:03.02,中,atg2,0,0,0,,{\fad(120,120)}这, 是太阳号恩情列车
 Dialogue: 1,0:00:03.02,0:00:05.43,中,atg2,0,0,0,,{\fad(120,120)}火车上的是朝鲜的太阳
 Dialogue: 2,0:00:03.04,0:00:05.43,英,atg1,0,0,0,,{\fad(120,120)}On board is Kim Jong-un,
 Dialogue: 2,0:00:05.43,0:00:07.18,英,atg1,0,0,0,,{\fad(120,120)}the ruler of North Korea.
-Dialogue: 1,0:00:05.43,0:00:07.18,中,atg2,0,0,0,,{\fad(120,120)}将军✋😭✋
+Dialogue: 1,0:00:05.43,0:00:07.18,中,atg2,0,0,0,,{\fad(120,120)}金带将军✋😭✋
 Dialogue: 2,0:00:07.18,0:00:10.25,英,atg1,0,0,0,,{\fad(120,120)}He almost never leaves his country.
 Dialogue: 1,0:00:07.18,0:00:10.25,中,atg2,0,0,0,,{\fad(120,120)}他基本上不出国
 Dialogue: 2,0:00:10.25,0:00:12.98,英,atg1,0,0,0,,{\fad(120,120)}But when he does, he travels on rail,
@@ -44,164 +44,292 @@ Dialogue: 1,0:00:12.98,0:00:15.10,中,atg2,0,0,0,,{\fad(120,120)}他会坐他的
 Dialogue: 2,0:00:16.34,0:00:18.89,英,atg1,0,0,0,,{\fad(120,120)}Right now, he just left Pyongyang.
 Dialogue: 1,0:00:16.34,0:00:18.89,中,atg2,0,0,0,,{\fad(120,120)}现在, 他离开平壤
 Dialogue: 2,0:00:18.89,0:00:25.06,英,atg1,0,0,0,,{\fad(120,120)}His destination is the Vostochny Cosmodrome in Russia to meet Vladimir Putin.
-Dialogue: 1,0:00:18.89,0:00:25.06,中,atg2,0,0,0,,{\fad(120,120)}动身前往俄国面见普京
-Dialogue: 2,0:00:25.06,0:00:29.78,英,atg1,0,0,0,,{\fad(120,120)}The journey will take him around two days and well over a thousand kilometers through
-Dialogue: 1,0:00:25.06,0:00:29.06,中,atg2,0,0,0,,{\fad(120,120)}这趟行程约耗时两天, 将在别国领土内
-Dialogue: 2,0:00:29.78,0:00:30.42,英,atg1,0,0,0,,{\fad(120,120)}foreign land.
+Dialogue: 1,0:00:18.89,0:00:25.06,中,atg2,0,0,0,,{\fad(120,120)}动身前往俄国的东方航天发射场会见普京
+Dialogue: 2,0:00:25.06,0:00:30.42,英,atg1,0,0,0,,{\fad(120,120)}The journey will take him around two days and well over a thousand kilometers through foreign land
+Dialogue: 1,0:00:25.06,0:00:30.42,中,atg2,0,0,0,,{\fad(120,120)}这趟行程约耗时两天, 将在别国领土内
 Dialogue: 2,0:00:31.54,0:00:33.59,英,atg1,0,0,0,,{\fad(120,120)}Kim has many enemies.
-Dialogue: 2,0:00:33.59,0:00:36.10,英,atg1,0,0,0,,{\fad(120,120)}How does the Taeyang-go keep him safe?
+Dialogue: 1,0:00:31.54,0:00:33.59,中,atg2,0,0,0,,{\fad(120,120)}将军树敌无数
+Dialogue: 2,0:00:33.59,0:00:36.10,英,atg1,0,0,0,,{\fad(120,120)}How does the Taeyangho keep him safe?
+Dialogue: 1,0:00:33.59,0:00:36.10,中,atg2,0,0,0,,{\fad(120,120)}星穹列车是如何护他平安的？
 Dialogue: 2,0:00:43.54,0:00:47.03,英,atg1,0,0,0,,{\fad(120,120)}Only a few North Koreans have access to the regular internet.
+Dialogue: 1,0:00:43.54,0:00:47.03,中,atg2,0,0,0,,{\fad(120,120)}光之国没几个人能跨上信息高速路
 Dialogue: 2,0:00:47.03,0:00:48.77,英,atg1,0,0,0,,{\fad(120,120)}If you're able to watch this video,
+Dialogue: 1,0:00:47.03,0:00:48.77,中,atg2,0,0,0,,{\fad(120,120)}要是bro能看到这个视频
 Dialogue: 2,0:00:48.77,0:00:52.52,英,atg1,0,0,0,,{\fad(120,120)}you're probably living in a country that allows you to access all the websites and
+Dialogue: 1,0:00:48.77,0:00:52.52,中,atg2,0,0,0,,{\fad(120,120)}那bro大概率生在关外
 Dialogue: 2,0:00:52.52,0:00:54.76,英,atg1,0,0,0,,{\fad(120,120)}platforms the world has to offer.
+Dialogue: 1,0:00:52.52,0:00:54.76,中,atg2,0,0,0,,{\fad(120,120)}在信息高速路上畅通无阻
 Dialogue: 2,0:00:54.76,0:00:56.34,英,atg1,0,0,0,,{\fad(120,120)}Well, most of them.
+Dialogue: 1,0:00:54.76,0:00:56.34,中,atg2,0,0,0,,{\fad(120,120)}🤔大概...无阻...吧？
 Dialogue: 2,0:00:56.34,0:00:59.53,英,atg1,0,0,0,,{\fad(120,120)}NordVPN can help you bypass geo-blockings.
+Dialogue: 1,0:00:56.34,0:00:59.53,中,atg2,0,0,0,,{\fad(120,120)}封路了?🤔没关系!我们的神奇妙妙小魔法能帮您绕个路
 Dialogue: 2,0:00:59.53,0:01:04.06,英,atg1,0,0,0,,{\fad(120,120)}Streaming sites such as Disney Plus often have drastically different catalogs depending on
+Dialogue: 1,0:00:59.53,0:01:04.06,中,atg2,0,0,0,,{\fad(120,120)}在Nord上选择您从未踏足的精神故乡
 Dialogue: 2,0:01:04.06,0:01:05.30,英,atg1,0,0,0,,{\fad(120,120)}where you're surfing from.
+Dialogue: 1,0:01:04.06,0:01:05.30,中,atg2,0,0,0,,{\fad(120,120)}把锁区和本地化定价移交蔡司
 Dialogue: 2,0:01:05.30,0:01:09.36,英,atg1,0,0,0,,{\fad(120,120)}Select a country and enjoy content that's usually not available in your area.
+Dialogue: 1,0:01:05.30,0:01:09.36,中,atg2,0,0,0,,{\fad(120,120)}爽刷 *不可名状之平台* 
 Dialogue: 2,0:01:09.36,0:01:14.46,英,atg1,0,0,0,,{\fad(120,120)}Platforms like Booking.com often have different prices in different countries as well.
+Dialogue: 1,0:01:09.36,0:01:14.46,中,atg2,0,0,0,,{\fad(120,120)}享受低价区的便宜青旅
 Dialogue: 2,0:01:14.46,0:01:17.77,英,atg1,0,0,0,,{\fad(120,120)}Use a VPN to find the cheapest offer and save some money.
-Dialogue: 2,0:01:17.77,0:01:22.12,英,atg1,0,0,0,,{\fad(120,120)}Additionally, the built-in Darknet Monitor can notify you when your personal data is being
-Dialogue: 2,0:01:22.12,0:01:23.30,英,atg1,0,0,0,,{\fad(120,120)}leaked online.
-Dialogue: 2,0:01:23.30,0:01:26.26,英,atg1,0,0,0,,{\fad(120,120)}Threat protection can block harmful advertising and trackers.
+Dialogue: 1,0:01:14.46,0:01:17.77,中,atg2,0,0,0,,{\fad(120,120)}您不止可以用*不可名状黑魔法*做赛博土耳其人
+Dialogue: 2,0:01:17.77,0:01:23.35,英,atg1,0,0,0,,{\fad(120,120)}Additionally, the built-in Darknet Monitor can notify you when your personal data is being leaked online
+Dialogue: 1,0:01:17.77,0:01:23.30,中,atg2,0,0,0,,{\fad(120,120)}魔法部还会帮bro守好bro的赛博一亩三分地
+Dialogue: 1,0:01:23.30,0:01:26.30,中,atg2,0,0,0,,{\fad(120,120)}肥水不流外人田
+Dialogue: 2,0:01:23.35,0:01:26.26,英,atg1,0,0,0,,{\fad(120,120)}Threat protection can block harmful advertising and trackers.
 Dialogue: 2,0:01:26.26,0:01:32.24,英,atg1,0,0,0,,{\fad(120,120)}Go to NordVPN.com slash Furn TV and get an extra four months on a two-year plan,
+Dialogue: 1,0:01:26.30,0:01:32.20,中,atg2,0,0,0,,{\fad(120,120)}免受电报上野生CIA的红色代码骚扰(哎我操美国人怎么这么坏😭)
+Dialogue: 1,0:01:32.20,0:01:36.18,中,atg2,0,0,0,,{\fad(120,120)}现在点点屏幕下方小黄车
 Dialogue: 2,0:01:32.24,0:01:36.18,英,atg1,0,0,0,,{\fad(120,120)}plus a 30-day money-back guarantee for your secure online journey.
 Dialogue: 2,0:01:36.18,0:01:39.04,英,atg1,0,0,0,,{\fad(120,120)}We appreciate NordVPN for sponsoring this episode.
+Dialogue: 1,0:01:36.18,0:01:39.10,中,atg2,0,0,0,,{\fad(120,120)}魔法部还提供30天无理由
 Dialogue: 2,0:01:39.04,0:01:40.14,英,atg1,0,0,0,,{\fad(120,120)}By checking them out,
+Dialogue: 1,0:01:39.10,0:01:40.15,中,atg2,0,0,0,,{\fad(120,120)}给魔法部苞米
 Dialogue: 2,0:01:40.14,0:01:41.30,英,atg1,0,0,0,,{\fad(120,120)}you support our reporting.
-Dialogue: 2,0:01:42.38,0:01:45.66,英,atg1,0,0,0,,{\fad(120,120)}The Tiang Go is escorted by two additional trains.
+Dialogue: 1,0:01:40.15,0:01:41.30,中,atg2,0,0,0,,{\fad(120,120)}我们也能爽赤回扣😋
+Dialogue: 1,0:01:42.35,0:01:45.66,中,atg2,0,0,0,,{\fad(120,120)}恩情列车有另两辆车全程护送
+Dialogue: 2,0:01:42.38,0:01:45.66,英,atg1,0,0,0,,{\fad(120,120)}The Taeyangho is escorted by two additional trains.
+Dialogue: 1,0:01:48.90,0:01:51.17,中,atg2,0,0,0,,{\fad(120,120)}一列在前开路
 Dialogue: 2,0:01:48.92,0:01:51.22,英,atg1,0,0,0,,{\fad(120,120)}One drives ahead to check for dangers,
+Dialogue: 1,0:01:51.17,0:01:54.88,中,atg2,0,0,0,,{\fad(120,120)}按v点亮越共, 或者当人肉ERA
 Dialogue: 2,0:01:51.22,0:01:54.88,英,atg1,0,0,0,,{\fad(120,120)}like planted explosives on the tracks or ambushes on the sides.
 Dialogue: 2,0:01:56.26,0:01:58.17,英,atg1,0,0,0,,{\fad(120,120)}The other one secures the back.
-Dialogue: 2,0:01:58.17,0:02:00.25,英,atg1,0,0,0,,{\fad(120,120)}It is filled with heavily armed security,
-Dialogue: 2,0:02:00.25,0:02:03.06,英,atg1,0,0,0,,{\fad(120,120)}ready to rush to the Supreme Leader's rescue if need be.
+Dialogue: 1,0:01:56.26,0:01:58.15,中,atg2,0,0,0,,{\fad(120,120)}另一列殿后
+Dialogue: 1,0:01:58.15,0:02:00.17,中,atg2,0,0,0,,{\fad(120,120)}加装有重甲
+Dialogue: 2,0:01:58.17,0:02:00.22,英,atg1,0,0,0,,{\fad(120,120)}It is filled with heavily armed security,
+Dialogue: 1,0:02:00.17,0:02:03.06,中,atg2,0,0,0,,{\fad(120,120)}时刻准备化身铁路Strv122护卫将军
+Dialogue: 2,0:02:00.22,0:02:03.06,英,atg1,0,0,0,,{\fad(120,120)}ready to rush to the Supreme Leader's rescue if need be.
 Dialogue: 2,0:02:04.54,0:02:07.00,英,atg1,0,0,0,,{\fad(120,120)}A helicopter scouts the area ahead.
+Dialogue: 1,0:02:04.54,0:02:06.97,中,atg2,0,0,0,,{\fad(120,120)}一架直升机在前
+Dialogue: 1,0:02:06.97,0:02:11.80,中,atg2,0,0,0,,{\fad(120,120)}在朝境内时刻护送专列
 Dialogue: 2,0:02:07.00,0:02:11.82,英,atg1,0,0,0,,{\fad(120,120)}He accompanies the convoy the entire time Kim is traveling through North Korean territory.
+Dialogue: 1,0:02:11.80,0:02:16.78,中,atg2,0,0,0,,{\fad(120,120)}另有运输机派遣人员在沿途机场驻守
 Dialogue: 2,0:02:11.82,0:02:16.78,英,atg1,0,0,0,,{\fad(120,120)}Cargo planes station additional personnel at the closest airports along the route.
-Dialogue: 2,0:02:17.90,0:02:21.59,英,atg1,0,0,0,,{\fad(120,120)}The Tiang Go has reinforced bulletproof windows.
+Dialogue: 2,0:02:17.90,0:02:21.59,英,atg1,0,0,0,,{\fad(120,120)}The Taeyangho has reinforced bulletproof windows.
+Dialogue: 1,0:02:17.90,0:02:21.57,中,atg2,0,0,0,,{\fad(120,120)}专列装有防弹玻璃
+Dialogue: 1,0:02:21.57,0:02:24.72,中,atg2,0,0,0,,{\fad(120,120)}车体外部也时刻准备跟后裔coser爆了
 Dialogue: 2,0:02:21.59,0:02:24.72,英,atg1,0,0,0,,{\fad(120,120)}Its walls and bottom are hardened to withstand explosions.
-Dialogue: 2,0:02:26.12,0:02:29.51,英,atg1,0,0,0,,{\fad(120,120)}Multiple compartments are carrying heavy weaponry.
-Dialogue: 2,0:02:29.51,0:02:33.66,英,atg1,0,0,0,,{\fad(120,120)}The train is equipped to fight back against attacks from above with anti-aircraft
-Dialogue: 2,0:02:33.66,0:02:34.02,英,atg1,0,0,0,,{\fad(120,120)}missiles.
+Dialogue: 2,0:02:26.12,0:02:29.51,英,atg1,0,0,0,,{\fad(120,120)}Multiple compartments are carrying heavy weaponry
+Dialogue: 1,0:02:26.12,0:02:29.51,中,atg2,0,0,0,,{\fad(120,120)}车上多个车厢载有重火力
+Dialogue: 2,0:02:29.51,0:02:34.02,英,atg1,0,0,0,,{\fad(120,120)}The train is equipped to fight back against attacks from above with anti-aircraft missles
+Dialogue: 1,0:02:29.51,0:02:34.02,中,atg2,0,0,0,,{\fad(120,120)}专列亦载有防空导弹、反坦克导弹与重机枪, 
 Dialogue: 2,0:02:35.08,0:02:40.36,英,atg1,0,0,0,,{\fad(120,120)}It also carries anti-tank missiles and two machine guns to aggressively fend off attacks
+Dialogue: 1,0:02:35.08,0:02:40.36,中,atg2,0,0,0,,{\fad(120,120)}前一者随时准备肘击意图射日的飞机, 后二者则可防卫来自列车两边的进攻
 Dialogue: 2,0:02:40.36,0:02:42.26,英,atg1,0,0,0,,{\fad(120,120)}from either side of the tracks.
+Dialogue: 1,0:02:40.36,0:02:42.26,中,atg2,0,0,0,,{\fad(120,120)}护太阳系平安
 Dialogue: 2,0:02:43.44,0:02:45.43,英,atg1,0,0,0,,{\fad(120,120)}If all defenses fail,
+Dialogue: 1,0:02:43.44,0:02:45.43,中,atg2,0,0,0,,{\fad(120,120)}即便这些手段都失效了也毋需惊慌
 Dialogue: 2,0:02:45.43,0:02:49.12,英,atg1,0,0,0,,{\fad(120,120)}the train carries a helicopter so Kim can flee from the scene.
+Dialogue: 1,0:02:45.43,0:02:49.12,中,atg2,0,0,0,,{\fad(120,120)}车上还有一架直升机带将军穿云仪表飞行
 Dialogue: 2,0:02:51.34,0:02:54.42,英,atg1,0,0,0,,{\fad(120,120)}All this makes Kim's train extremely safe,
+Dialogue: 1,0:02:51.34,0:02:54.42,中,atg2,0,0,0,,{\fad(120,120)}这一切, 让太阳号安全无比
 Dialogue: 2,0:02:54.42,0:02:56.12,英,atg1,0,0,0,,{\fad(120,120)}but also extremely heavy.
-Dialogue: 2,0:02:58.40,0:03:01.90,英,atg1,0,0,0,,{\fad(120,120)}The Tiang Go travels at only 60 kilometers per hour,
+Dialogue: 1,0:02:54.42,0:02:56.12,中,atg2,0,0,0,,{\fad(120,120)}也让专列和太阳本人一样是投注
+Dialogue: 2,0:02:58.40,0:03:01.90,英,atg1,0,0,0,,{\fad(120,120)}The Taeyangho travels at only 60 kilometers per hour,
+Dialogue: 1,0:02:58.40,0:03:01.90,中,atg2,0,0,0,,{\fad(120,120)}你不懂大胃袋这一块让太阳号只能跑60迈
 Dialogue: 2,0:03:01.90,0:03:03.77,英,atg1,0,0,0,,{\fad(120,120)}sometimes even slower,
+Dialogue: 1,0:03:01.90,0:03:03.75,中,atg2,0,0,0,,{\fad(120,120)}考虑到曹县的优质的铁路维护
 Dialogue: 2,0:03:03.77,0:03:06.85,英,atg1,0,0,0,,{\fad(120,120)}due to the poor condition of railways in North Korea.
+Dialogue: 1,0:03:03.77,0:03:06.85,中,atg2,0,0,0,,{\fad(120,120)}有时还跑不到60
 Dialogue: 2,0:03:06.85,0:03:09.12,英,atg1,0,0,0,,{\fad(120,120)}When the train passes by a station,
+Dialogue: 1,0:03:06.85,0:03:09.12,中,atg2,0,0,0,,{\fad(120,120)}专列跨站时
 Dialogue: 2,0:03:09.12,0:03:11.48,英,atg1,0,0,0,,{\fad(120,120)}the power is cut off on all other tracks.
+Dialogue: 1,0:03:09.12,0:03:11.48,中,atg2,0,0,0,,{\fad(120,120)}其它轨道的电源会被切断
 Dialogue: 2,0:03:11.48,0:03:16.44,英,atg1,0,0,0,,{\fad(120,120)}There are 20 railway stations in the country that were built solely for this one train.
+Dialogue: 1,0:03:11.48,0:03:16.44,中,atg2,0,0,0,,{\fad(120,120)}光之国内, 亦有二十个车站是专为将军而建
+Dialogue: 1,0:03:21.02,0:03:22.89,中,atg2,0,0,0,,{\fad(120,120)}受胃袋这一块的影响
 Dialogue: 2,0:03:21.05,0:03:22.89,英,atg1,0,0,0,,{\fad(120,120)}Because of the slow speeds,
 Dialogue: 2,0:03:22.89,0:03:25.29,英,atg1,0,0,0,,{\fad(120,120)}Kim might be on the road for several days on end,
+Dialogue: 1,0:03:22.89,0:03:25.30,中,atg2,0,0,0,,{\fad(120,120)}将军可能得在车上待好几天
 Dialogue: 2,0:03:25.29,0:03:28.27,英,atg1,0,0,0,,{\fad(120,120)}just like during this particular trip to meet Putin.
+Dialogue: 1,0:03:25.30,0:03:28.27,中,atg2,0,0,0,,{\fad(120,120)}像他这次去见普大帝
 Dialogue: 2,0:03:29.31,0:03:33.71,英,atg1,0,0,0,,{\fad(120,120)}On board, he has everything he needs to govern his country day and night.
+Dialogue: 1,0:03:29.31,0:03:33.71,中,atg2,0,0,0,,{\fad(120,120)}车上备有他治理国家所需的一切必需品
 Dialogue: 2,0:03:35.61,0:03:37.45,英,atg1,0,0,0,,{\fad(120,120)}An office with a desk,
+Dialogue: 1,0:03:35.61,0:03:37.50,中,atg2,0,0,0,,{\fad(120,120)}带一间桌子的办公室
 Dialogue: 2,0:03:37.45,0:03:39.95,英,atg1,0,0,0,,{\fad(120,120)}laptop, television, fax machine,
+Dialogue: 1,0:03:37.50,0:03:39.95,中,atg2,0,0,0,,{\fad(120,120)}一台批判性使用的笔记本, 一架台灯, 与一台电视
 Dialogue: 2,0:03:39.95,0:03:44.90,英,atg1,0,0,0,,{\fad(120,120)}satellite phone, and a map of China in the Korean peninsula on the wall.
+Dialogue: 1,0:03:39.95,0:03:44.97,中,atg2,0,0,0,,{\fad(120,120)}还有一部卫星电话, 和一副朝鲜及中国地图
 Dialogue: 2,0:03:44.90,0:03:46.87,英,atg1,0,0,0,,{\fad(120,120)}A reception room.
+Dialogue: 1,0:03:44.97,0:03:46.87,中,atg2,0,0,0,,{\fad(120,120)}接待室
 Dialogue: 2,0:03:46.87,0:03:48.45,英,atg1,0,0,0,,{\fad(120,120)}A meeting room with a table.
+Dialogue: 1,0:03:46.87,0:03:48.45,中,atg2,0,0,0,,{\fad(120,120)}还有一间有桌子的会议室
+Dialogue: 1,0:03:49.75,0:03:52.29,中,atg2,0,0,0,,{\fad(120,120)}车厢的内饰风格挺"兼收并蓄"的
 Dialogue: 2,0:03:49.79,0:03:52.29,英,atg1,0,0,0,,{\fad(120,120)}The interior style is quite eclectic.
 Dialogue: 2,0:03:52.29,0:03:54.21,英,atg1,0,0,0,,{\fad(120,120)}Most rooms are entirely white,
+Dialogue: 1,0:03:52.29,0:03:54.22,中,atg2,0,0,0,,{\fad(120,120)}大多都刷成纯白色
 Dialogue: 2,0:03:54.21,0:03:56.21,英,atg1,0,0,0,,{\fad(120,120)}with shiny wooden floors.
+Dialogue: 1,0:03:54.22,0:03:56.17,中,atg2,0,0,0,,{\fad(120,120)}铺有实木地板
+Dialogue: 1,0:03:56.17,0:03:58.62,中,atg2,0,0,0,,{\fad(120,120)}室内摆有律师和粉色的沙发
 Dialogue: 2,0:03:56.21,0:03:58.61,英,atg1,0,0,0,,{\fad(120,120)}There are green and hot pink sofas,
 Dialogue: 2,0:03:58.61,0:04:00.77,英,atg1,0,0,0,,{\fad(120,120)}ivory and turquoise curtains,
+Dialogue: 1,0:03:58.62,0:04:00.77,中,atg2,0,0,0,,{\fad(120,120)}窗边挂的是象牙白与绿松石色的窗帘
 Dialogue: 2,0:04:00.77,0:04:04.23,英,atg1,0,0,0,,{\fad(120,120)}flower-shaped lamps, and zebra-patterned fabric seats.
+Dialogue: 1,0:04:00.77,0:04:04.23,中,atg2,0,0,0,,{\fad(120,120)}另有花朵形的挂壁灯及斑马纹椅子
 Dialogue: 2,0:04:08.08,0:04:10.62,英,atg1,0,0,0,,{\fad(120,120)}But the highlight of the train is the restaurant.
+Dialogue: 1,0:04:08.08,0:04:10.62,中,atg2,0,0,0,,{\fad(120,120)}不过真正牛逼的在于伙房
+Dialogue: 1,0:04:12.05,0:04:18.75,中,atg2,0,0,0,,{\fad(120,120)}你能发现来自山川湖海的珍馐, 齐囿于太阳号上的厨房与爱
 Dialogue: 2,0:04:12.06,0:04:15.56,英,atg1,0,0,0,,{\fad(120,120)}On board, you can find all sorts of delicacies from Korean,
 Dialogue: 2,0:04:15.56,0:04:17.33,英,atg1,0,0,0,,{\fad(120,120)}Russian, Chinese, Japanese,
 Dialogue: 2,0:04:17.33,0:04:18.74,英,atg1,0,0,0,,{\fad(120,120)}and French cuisine.
 Dialogue: 2,0:04:18.74,0:04:21.78,英,atg1,0,0,0,,{\fad(120,120)}Kim Jong-un won't get bored during the journey either.
+Dialogue: 1,0:04:18.75,0:04:21.72,中,atg2,0,0,0,,{\fad(120,120)}将军也不会在旅途中感到无聊
+Dialogue: 1,0:04:21.72,0:04:23.53,中,atg2,0,0,0,,{\fad(120,120)}车上有一位歌者
 Dialogue: 2,0:04:21.78,0:04:23.53,英,atg1,0,0,0,,{\fad(120,120)}The train has singers on board,
 Dialogue: 2,0:04:23.53,0:04:25.66,英,atg1,0,0,0,,{\fad(120,120)}who serenade the Supreme Leader personally.
+Dialogue: 1,0:04:23.53,0:04:25.66,中,atg2,0,0,0,,{\fad(120,120)}专为其最高领导人服务
 Dialogue: 2,0:04:27.06,0:04:28.87,英,atg1,0,0,0,,{\fad(120,120)}When stepping off the train,
+Dialogue: 1,0:04:27.06,0:04:28.87,中,atg2,0,0,0,,{\fad(120,120)}将军下车时,
 Dialogue: 2,0:04:28.87,0:04:32.80,英,atg1,0,0,0,,{\fad(120,120)}two on-board armored Mercedes limousines are unloaded for the last mile.
+Dialogue: 1,0:04:28.87,0:04:32.80,中,atg2,0,0,0,,{\fad(120,120)}列车上两辆将军严选防弹迈巴赫就会为其打通"最后一公里"
 Dialogue: 2,0:04:38.16,0:04:41.08,英,atg1,0,0,0,,{\fad(120,120)}Train travel has a long tradition in the Kim family.
-Dialogue: 2,0:04:42.44,0:04:44.19,英,atg1,0,0,0,,{\fad(120,120)}This is the Kumojin Palace,
+Dialogue: 1,0:04:38.16,0:04:41.08,中,atg2,0,0,0,,{\fad(120,120)}爱上火车是金家的祖宗之法
+Dialogue: 2,0:04:42.44,0:04:44.19,英,atg1,0,0,0,,{\fad(120,120)}This is the Kumsusan Palace,
+Dialogue: 1,0:04:42.44,0:04:44.19,中,atg2,0,0,0,,{\fad(120,120)}这是锦绣山太阳宫
 Dialogue: 2,0:04:44.19,0:04:47.86,英,atg1,0,0,0,,{\fad(120,120)}where the remains of Kim Il-sung and Kim Jong-il are laid to rest.
+Dialogue: 1,0:04:44.19,0:04:47.86,中,atg2,0,0,0,,{\fad(120,120)}即金日成与金正日遗体所在之处
 Dialogue: 2,0:04:49.54,0:04:50.94,英,atg1,0,0,0,,{\fad(120,120)}Right next to their remains,
+Dialogue: 1,0:04:49.54,0:04:50.92,中,atg2,0,0,0,,{\fad(120,120)}遗体旁, 
+Dialogue: 1,0:04:50.92,0:04:54.37,中,atg2,0,0,0,,{\fad(120,120)}摆放有其专列的1:1模型
 Dialogue: 2,0:04:50.94,0:04:54.35,英,atg1,0,0,0,,{\fad(120,120)}you'll find life-size models of their personal train carriages.
 Dialogue: 2,0:04:54.35,0:04:58.54,英,atg1,0,0,0,,{\fad(120,120)}There's even said to be a painting of Kim Jong-il proudly standing next to his train.
+Dialogue: 1,0:04:54.37,0:04:58.54,中,atg2,0,0,0,,{\fad(120,120)}及金正日与其专列的合照
 Dialogue: 2,0:04:58.54,0:05:02.32,英,atg1,0,0,0,,{\fad(120,120)}A map with small lights shows the many journeys they took.
+Dialogue: 1,0:04:58.54,0:05:02.32,中,atg2,0,0,0,,{\fad(120,120)}一副带有灯光的地图展示着其生前足迹
 Dialogue: 2,0:05:04.06,0:05:07.23,英,atg1,0,0,0,,{\fad(120,120)}Taking the train started as a safety precaution.
+Dialogue: 1,0:05:04.06,0:05:07.20,中,atg2,0,0,0,,{\fad(120,120)}乘火车对他们来说是一种安全保护措施
+Dialogue: 1,0:05:07.20,0:05:11.57,中,atg2,0,0,0,,{\fad(120,120)}据传金正日怕乘飞机
 Dialogue: 2,0:05:07.23,0:05:11.58,英,atg1,0,0,0,,{\fad(120,120)}Kim Jong-il was reportedly also just a bit afraid of flying.
+Dialogue: 1,0:05:11.57,0:05:16.05,中,atg2,0,0,0,,{\fad(120,120)}2001年, 他曾在去莫斯科的路上
 Dialogue: 2,0:05:11.58,0:05:16.05,英,atg1,0,0,0,,{\fad(120,120)}In 2001, he took a train journey lasting almost a month,
 Dialogue: 2,0:05:16.05,0:05:17.58,英,atg1,0,0,0,,{\fad(120,120)}all the way to Moscow,
-Dialogue: 2,0:05:17.58,0:05:19.38,英,atg1,0,0,0,,{\fad(120,120)}covering a total of 20,000
-Dialogue: 2,0:05:19.38,0:05:20.39,英,atg1,0,0,0,,{\fad(120,120)}kilometers.
+Dialogue: 1,0:05:16.05,0:05:17.58,中,atg2,0,0,0,,{\fad(120,120)}跟火车呆了近一个月
+Dialogue: 2,0:05:17.58,0:05:20.39,英,atg1,0,0,0,,{\fad(120,120)}covering a total of 20,000 kilometers.
+Dialogue: 1,0:05:17.58,0:05:20.35,中,atg2,0,0,0,,{\fad(120,120)}刷了两万里程
+Dialogue: 1,0:05:20.35,0:05:24.81,中,atg2,0,0,0,,{\fad(120,120)}一位叫康斯坦丁·普利科夫斯基的俄罗斯官员陪他走完了这一程
 Dialogue: 2,0:05:20.39,0:05:24.81,英,atg1,0,0,0,,{\fad(120,120)}A Russian official named Konstantin Pulikovsky accompanied him.
 Dialogue: 2,0:05:24.81,0:05:28.10,英,atg1,0,0,0,,{\fad(120,120)}After the journey, he published a book about his experiences.
+Dialogue: 1,0:05:24.81,0:05:28.10,中,atg2,0,0,0,,{\fad(120,120)}事后, 他出了一本书来讲这段经历
 Dialogue: 2,0:05:28.10,0:05:32.21,英,atg1,0,0,0,,{\fad(120,120)}Much to the irritation of both the Russian and North Korean governments.
+Dialogue: 1,0:05:28.10,0:05:32.20,中,atg2,0,0,0,,{\fad(120,120)}让曹县和俄国当局都大为火光
 Dialogue: 2,0:05:32.21,0:05:34.41,英,atg1,0,0,0,,{\fad(120,120)}That's because for a long time,
+Dialogue: 1,0:05:32.21,0:05:34.41,中,atg2,0,0,0,,{\fad(120,120)}因为长期以来
 Dialogue: 2,0:05:34.41,0:05:37.77,英,atg1,0,0,0,,{\fad(120,120)}the Korean leader's trains were shrouded in utter mystery.
+Dialogue: 1,0:05:34.41,0:05:37.75,中,atg2,0,0,0,,{\fad(120,120)}曹县领导人的专列都深埋于世界未解之谜的深水区
+Dialogue: 1,0:05:37.75,0:05:40.60,中,atg2,0,0,0,,{\fad(120,120)}专列的行程及其内饰
 Dialogue: 2,0:05:37.77,0:05:40.62,英,atg1,0,0,0,,{\fad(120,120)}It was never announced when they would move and where.
+Dialogue: 1,0:05:40.60,0:05:43.78,中,atg2,0,0,0,,{\fad(120,120)}此前也从未被公开
 Dialogue: 2,0:05:40.62,0:05:43.78,英,atg1,0,0,0,,{\fad(120,120)}Also, the interior was largely kept secret.
-Dialogue: 2,0:05:47.28,0:05:53.06,英,atg1,0,0,0,,{\fad(120,120)}In 2004, Kim Jong-il's train passed through the Yongcheng Station near the border with
-Dialogue: 2,0:05:53.06,0:05:53.38,英,atg1,0,0,0,,{\fad(120,120)}China.
-Dialogue: 2,0:05:54.76,0:06:03.84,英,atg1,0,0,0,,{\fad(120,120)}Just hours later, a massive explosion killed about 160 people and injured 1,300
-Dialogue: 2,0:06:03.84,0:06:04.30,英,atg1,0,0,0,,{\fad(120,120)}more.
-Dialogue: 2,0:06:06.10,0:06:10.86,英,atg1,0,0,0,,{\fad(120,120)}Supposedly, a train parked at the station laden with oils and chemicals was hitting power
-Dialogue: 2,0:06:10.86,0:06:11.85,英,atg1,0,0,0,,{\fad(120,120)}lines.
+Dialogue: 2,0:05:47.75,0:05:53.77,英,atg1,0,0,0,,{\fad(120,120)}In 2004, Kim Jong-il's train passed through the Yongcheng Station near the border with China
+Dialogue: 1,0:05:47.75,0:05:53.77,中,atg2,0,0,0,,{\fad(120,120)}主体93年, 金正日的专列经过中朝边境旁的Yongcheng站
+Dialogue: 2,0:05:54.76,0:06:04.30,英,atg1,0,0,0,,{\fad(120,120)}Just hours later, a massive explosion killed about 160 people and injured 1,300
+Dialogue: 1,0:05:54.76,0:06:04.30,中,atg2,0,0,0,,{\fad(120,120)}仅仅一小时后, 该站就发生了一次爆炸, 致死约160人, 致伤1300多人
+Dialogue: 2,0:06:06.10,0:06:11.85,英,atg1,0,0,0,,{\fad(120,120)}Supposedly, a train parked at the station laden with oils and chemicals was hitting power lines
+Dialogue: 1,0:06:06.10,0:06:11.85,中,atg2,0,0,0,,{\fad(120,120)}据称, 一辆装满化学药品与燃油的列车, 在停站期间接触了坠落的电线
 Dialogue: 2,0:06:11.85,0:06:16.19,英,atg1,0,0,0,,{\fad(120,120)}There were speculations that this might have been an assassination attempt.
+Dialogue: 1,0:06:11.85,0:06:16.17,中,atg2,0,0,0,,{\fad(120,120)}有人猜测这是一次失败的暗杀
+Dialogue: 1,0:06:16.17,0:06:18.57,中,atg2,0,0,0,,{\fad(120,120)}这种说法不无道理
 Dialogue: 2,0:06:16.19,0:06:18.57,英,atg1,0,0,0,,{\fad(120,120)}That's not entirely unlikely.
 Dialogue: 2,0:06:18.57,0:06:22.76,英,atg1,0,0,0,,{\fad(120,120)}There have been many reports of internal power struggles in North Korea over the decades.
+Dialogue: 1,0:06:18.57,0:06:22.76,中,atg2,0,0,0,,{\fad(120,120)}有关朝鲜内部吉列权力豆蒸的报道真不少
 Dialogue: 2,0:06:25.22,0:06:29.21,英,atg1,0,0,0,,{\fad(120,120)}The security of the train was reportedly boosted after the incident.
+Dialogue: 1,0:06:25.22,0:06:29.21,中,atg2,0,0,0,,{\fad(120,120)}报道称, 爆炸事件让列车保卫也上了强度
 Dialogue: 2,0:06:29.21,0:06:34.20,英,atg1,0,0,0,,{\fad(120,120)}In 2009, Russian photographers were banned from taking pictures of the train while it was
+Dialogue: 1,0:06:29.21,0:06:34.20,中,atg2,0,0,0,,{\fad(120,120)}主体98年, 列车前往XX时
 Dialogue: 2,0:06:34.20,0:06:36.62,英,atg1,0,0,0,,{\fad(120,120)}en route to the then-President Dmitry Medvedev.
+Dialogue: 1,0:06:34.20,0:06:36.62,中,atg2,0,0,0,,{\fad(120,120)}顺手碎了几个俄罗斯摄影师的水表梦
 Dialogue: 2,0:06:36.62,0:06:42.30,英,atg1,0,0,0,,{\fad(120,120)}Entire villages in Siberia were instructed to stay indoors until the train had passed.
+Dialogue: 1,0:06:36.62,0:06:42.32,中,atg2,0,0,0,,{\fad(120,120)}西伯利亚, 有个村庄接旨, 要求村民在专列驶过前不得出门
 Dialogue: 2,0:06:42.30,0:06:44.27,英,atg1,0,0,0,,{\fad(120,120)}In the era of smartphones,
+Dialogue: 1,0:06:42.32,0:06:44.22,中,atg2,0,0,0,,{\fad(120,120)}不过在如今, 智能手机时代
+Dialogue: 1,0:06:44.22,0:06:46.50,中,atg2,0,0,0,,{\fad(120,120)}这么干多少有点理想主义
 Dialogue: 2,0:06:44.27,0:06:46.44,英,atg1,0,0,0,,{\fad(120,120)}this is no longer possible and,
 Dialogue: 2,0:06:46.44,0:06:48.81,英,atg1,0,0,0,,{\fad(120,120)}in some cases, not really desired.
+Dialogue: 1,0:06:46.50,0:06:48.82,中,atg2,0,0,0,,{\fad(120,120)}且, 某些情况下, 将军也不想这么干
 Dialogue: 2,0:06:48.81,0:06:51.58,英,atg1,0,0,0,,{\fad(120,120)}Because the train also serves propaganda purposes.
-Dialogue: 2,0:06:57.33,0:06:59.84,英,atg1,0,0,0,,{\fad(120,120)}The Taeyong-go fittingly means sun.
+Dialogue: 1,0:06:48.82,0:06:51.58,中,atg2,0,0,0,,{\fad(120,120)}因为专列有宣传作用
+Dialogue: 2,0:06:57.33,0:06:59.84,英,atg1,0,0,0,,{\fad(120,120)}The Taeyangho fittingly means sun.
+Dialogue: 1,0:06:57.33,0:06:59.82,中,atg2,0,0,0,,{\fad(120,120)}태양호 意为太阳
+Dialogue: 1,0:06:59.82,0:07:02.80,中,atg2,0,0,0,,{\fad(120,120)}其在朝鲜已然成为权力的象征
 Dialogue: 2,0:06:59.84,0:07:02.80,英,atg1,0,0,0,,{\fad(120,120)}It has become a powerful symbol for North Korea.
 Dialogue: 2,0:07:02.80,0:07:06.95,英,atg1,0,0,0,,{\fad(120,120)}Kim Jong-un is said to use it to appear down to earth and close to the people.
+Dialogue: 1,0:07:02.80,0:07:06.97,中,atg2,0,0,0,,{\fad(120,120)}据传金正恩以此来展现平易近人的形象, 拉近与群众的距离
 Dialogue: 2,0:07:06.95,0:07:11.79,英,atg1,0,0,0,,{\fad(120,120)}In stark contrast to the lofty image of the US president and his giant jumbo jet.
-Dialogue: 2,0:07:11.79,0:07:14.10,英,atg1,0,0,0,,{\fad(120,120)}And political leaders traveling by train is,
-Dialogue: 2,0:07:14.10,0:07:15.71,英,atg1,0,0,0,,{\fad(120,120)}one way or another, a symbol.
+Dialogue: 1,0:07:06.97,0:07:11.82,中,atg2,0,0,0,,{\fad(120,120)}以与美国总统所乘的巨型喷气客机形成鲜明对比
+Dialogue: 2,0:07:11.79,0:07:15.71,英,atg1,0,0,0,,{\fad(120,120)}And political leaders traveling by train is one way or another, a symbol.
+Dialogue: 1,0:07:11.82,0:07:15.70,中,atg2,0,0,0,,{\fad(120,120)}且无论如何, 政治领袖乘火车出行都是一种象征
+Dialogue: 1,0:07:15.70,0:07:18.22,中,atg2,0,0,0,,{\fad(120,120)}俄乌冲突开始后,
 Dialogue: 2,0:07:15.71,0:07:18.26,英,atg1,0,0,0,,{\fad(120,120)}After the invasion of Ukraine,
+Dialogue: 1,0:07:18.22,0:07:20.97,中,atg2,0,0,0,,{\fad(120,120)}乌克兰领空不再安全
 Dialogue: 2,0:07:18.26,0:07:20.99,英,atg1,0,0,0,,{\fad(120,120)}the airspace above the country became unsafe.
+Dialogue: 1,0:07:20.97,0:07:24.55,中,atg2,0,0,0,,{\fad(120,120)}许多西方领导人开始从波兰坐火车前往基辅
 Dialogue: 2,0:07:20.99,0:07:24.54,英,atg1,0,0,0,,{\fad(120,120)}Many Western leaders started to visit Kiev by train through Poland.
 Dialogue: 2,0:07:24.54,0:07:27.32,英,atg1,0,0,0,,{\fad(120,120)}This has been coined as iron diplomacy.
+Dialogue: 1,0:07:24.55,0:07:27.30,中,atg2,0,0,0,,{\fad(120,120)}这被称为"铁杆外交"
+Dialogue: 1,0:07:27.30,0:07:29.30,中,atg2,0,0,0,,{\fad(120,120)}在朝鲜这
 Dialogue: 2,0:07:27.32,0:07:29.33,英,atg1,0,0,0,,{\fad(120,120)}In the case of North Korea,
-Dialogue: 2,0:07:29.33,0:07:34.19,英,atg1,0,0,0,,{\fad(120,120)}the Taeyong-go in some ways accentuates just how uniquely isolated the country is.
+Dialogue: 1,0:07:29.30,0:07:34.19,中,atg2,0,0,0,,{\fad(120,120)}太阳号恰恰凸显了这个国家的封闭
+Dialogue: 2,0:07:29.33,0:07:34.19,英,atg1,0,0,0,,{\fad(120,120)}the Taeyangho in some ways accentuates just how uniquely isolated the country is.
 Dialogue: 2,0:07:34.19,0:07:35.73,英,atg1,0,0,0,,{\fad(120,120)}The supreme leaders rarely,
+Dialogue: 1,0:07:34.19,0:07:35.73,中,atg2,0,0,0,,{\fad(120,120)}其最高领袖极少, 
 Dialogue: 2,0:07:35.73,0:07:39.30,英,atg1,0,0,0,,{\fad(120,120)}or perhaps never, visit most parts of the world.
-Dialogue: 2,0:07:39.30,0:07:44.51,英,atg1,0,0,0,,{\fad(120,120)}There is also a certain irony in the train supposedly symbolizing the modesty of the Kim
-Dialogue: 2,0:07:44.51,0:07:44.97,英,atg1,0,0,0,,{\fad(120,120)}family.
+Dialogue: 1,0:07:35.73,0:07:39.30,中,atg2,0,0,0,,{\fad(120,120)}或者说完全没造访过这个世界上的大多数地方
+Dialogue: 2,0:07:39.30,0:07:45.06,英,atg1,0,0,0,,{\fad(120,120)}There is also a certain irony in the train supposedly symbolizing the modesty of the Kim
+Dialogue: 1,0:07:39.30,0:07:45.06,中,atg2,0,0,0,,{\fad(120,120)}据说这辆专列还象征着金氏家族的谦逊, 着实有些讽刺
 Dialogue: 2,0:07:48.59,0:07:50.53,英,atg1,0,0,0,,{\fad(120,120)}Journeys always have a destination.
-Dialogue: 2,0:07:51.71,0:07:55.39,英,atg1,0,0,0,,{\fad(120,120)}Kim's train finally arrives at Fustochnyi kosmodrome.
-Dialogue: 2,0:07:55.39,0:07:59.81,英,atg1,0,0,0,,{\fad(120,120)}He is greeted with one of the longest and perhaps most uncomfortable handshakes in
-Dialogue: 2,0:07:59.81,0:08:00.17,英,atg1,0,0,0,,{\fad(120,120)}history.
+Dialogue: 1,0:07:48.59,0:07:50.53,中,atg2,0,0,0,,{\fad(120,120)}旅行总会有个目的地
+Dialogue: 1,0:07:51.70,0:07:55.35,中,atg2,0,0,0,,{\fad(120,120)}太阳号终于到达了它的目的地, 俄罗斯东方航天发射场
+Dialogue: 2,0:07:51.71,0:07:55.39,英,atg1,0,0,0,,{\fad(120,120)}Kim's train finally arrives at Vostochny Cosmodrome
+Dialogue: 1,0:07:55.35,0:08:00.43,中,atg2,0,0,0,,{\fad(120,120)}将军迎来了历史上最漫长、或许也是最令人难堪的握手之一
+Dialogue: 2,0:07:55.39,0:08:00.43,英,atg1,0,0,0,,{\fad(120,120)}He is greeted with one of the longest and perhaps most uncomfortable handshakes in history
+Dialogue: 1,0:08:08.55,0:08:11.00,中,atg2,0,0,0,,{\fad(120,120)}而后, 普京带他考察了发射场
 Dialogue: 2,0:08:08.61,0:08:11.01,英,atg1,0,0,0,,{\fad(120,120)}Then, Putin gives him the full tour.
+Dialogue: 1,0:08:11.00,0:08:13.30,中,atg2,0,0,0,,{\fad(120,120)}一处航天港, 一家飞机制造厂
 Dialogue: 2,0:08:11.01,0:08:13.30,英,atg1,0,0,0,,{\fad(120,120)}A spaceport, an aircraft factory,
 Dialogue: 2,0:08:13.30,0:08:15.02,英,atg1,0,0,0,,{\fad(120,120)}and the Pacific Fleet.
+Dialogue: 1,0:08:13.30,0:08:15.07,中,atg2,0,0,0,,{\fad(120,120)}以及太平洋舰队
 Dialogue: 2,0:08:15.02,0:08:16.81,英,atg1,0,0,0,,{\fad(120,120)}Later, there's vodka,
+Dialogue: 1,0:08:15.07,0:08:16.81,中,atg2,0,0,0,,{\fad(120,120)}稍后, 是伏特加
 Dialogue: 2,0:08:16.81,0:08:17.87,英,atg1,0,0,0,,{\fad(120,120)}a ballet performance,
+Dialogue: 1,0:08:16.81,0:08:17.92,中,atg2,0,0,0,,{\fad(120,120)}芭蕾舞
 Dialogue: 2,0:08:17.87,0:08:19.57,英,atg1,0,0,0,,{\fad(120,120)}and a walrus show.
-Dialogue: 2,0:08:19.57,0:08:22.50,英,atg1,0,0,0,,{\fad(120,120)}The reason the two men meet is quite serious,
-Dialogue: 2,0:08:22.50,0:08:22.91,英,atg1,0,0,0,,{\fad(120,120)}however.
+Dialogue: 1,0:08:17.92,0:08:19.57,中,atg2,0,0,0,,{\fad(120,120)}与海象表演
+Dialogue: 2,0:08:19.57,0:08:22.91,英,atg1,0,0,0,,{\fad(120,120)}The reason the two men meet is quite serious, however
+Dialogue: 1,0:08:19.57,0:08:22.91,中,atg2,0,0,0,,{\fad(120,120)}不过, 二人会面的原因却不似刚刚那般歌舞升平
 Dialogue: 2,0:08:25.79,0:08:30.67,英,atg1,0,0,0,,{\fad(120,120)}Russia is running low on ammunition and allies in its war against Ukraine.
+Dialogue: 1,0:08:25.80,0:08:30.65,中,atg2,0,0,0,,{\fad(120,120)}俄罗斯在这场战争中黔驴技穷, 众叛亲离
+Dialogue: 1,0:08:30.65,0:08:35.52,中,atg2,0,0,0,,{\fad(120,120)}而朝鲜刚好有不少兵马弹药
 Dialogue: 2,0:08:30.67,0:08:35.55,英,atg1,0,0,0,,{\fad(120,120)}North Korea has enormous stocks of ammo and is not afraid to supply it.
+Dialogue: 1,0:08:35.52,0:08:39.90,中,atg2,0,0,0,,{\fad(120,120)}作为回报, 朝鲜能得到俄罗斯的技术支持
 Dialogue: 2,0:08:35.55,0:08:39.89,英,atg1,0,0,0,,{\fad(120,120)}In return, the country could receive technical support from Russia for building new
 Dialogue: 2,0:08:39.89,0:08:42.81,英,atg1,0,0,0,,{\fad(120,120)}satellites and missiles for its nuclear weapons program.
+Dialogue: 1,0:08:39.90,0:08:42.87,中,atg2,0,0,0,,{\fad(120,120)}以建设其卫星与核导弹工程
 Dialogue: 2,0:08:42.81,0:08:45.59,英,atg1,0,0,0,,{\fad(120,120)}No official outcome has been announced,
-Dialogue: 2,0:08:45.59,0:08:50.23,英,atg1,0,0,0,,{\fad(120,120)}but Russian Foreign Minister Sergei Lavrov recently visited Pyongyang shortly after the
-Dialogue: 2,0:08:50.23,0:08:50.78,英,atg1,0,0,0,,{\fad(120,120)}meeting.
+Dialogue: 1,0:08:42.87,0:08:45.59,中,atg2,0,0,0,,{\fad(120,120)}对此双方并未做出官方声明
+Dialogue: 2,0:08:45.59,0:08:50.78,英,atg1,0,0,0,,{\fad(120,120)}but Russian Foreign Minister Sergei Lavrov recently visited Pyongyang shortly after the meeting
+Dialogue: 1,0:08:45.59,0:08:50.77,中,atg2,0,0,0,,{\fad(120,120)}但俄罗斯外交部长拉夫罗夫在会面后访问了平壤
 Dialogue: 2,0:08:50.78,0:08:55.03,英,atg1,0,0,0,,{\fad(120,120)}He thanked North Korea for its support in the Ukraine conflict and reaffirmed the
+Dialogue: 1,0:08:50.78,0:08:55.02,中,atg2,0,0,0,,{\fad(120,120)}他感谢了朝鲜在俄乌冲突中对俄罗斯的支持
+Dialogue: 1,0:08:55.02,0:08:57.15,中,atg2,0,0,0,,{\fad(120,120)}并重申了二国间的伙伴关系
 Dialogue: 2,0:08:55.03,0:08:57.16,英,atg1,0,0,0,,{\fad(120,120)}partnership between both countries.
+Dialogue: 1,0:08:57.15,0:08:58.63,中,atg2,0,0,0,,{\fad(120,120)}作为回报, 
 Dialogue: 2,0:08:57.16,0:08:58.63,英,atg1,0,0,0,,{\fad(120,120)}North Korea, in turn,
 Dialogue: 2,0:08:58.63,0:09:03.17,英,atg1,0,0,0,,{\fad(120,120)}officially recognized the territories captured by Russia as Russian sovereign territory.
+Dialogue: 1,0:08:58.63,0:09:03.17,中,atg2,0,0,0,,{\fad(120,120)}朝鲜当局承认为俄罗斯所占有的乌克兰领土归俄罗斯所有
 Dialogue: 2,0:09:04.57,0:09:06.79,英,atg1,0,0,0,,{\fad(120,120)}Lavrov didn't commit on weapons deliveries,
-Dialogue: 2,0:09:06.79,0:09:08.26,英,atg1,0,0,0,,{\fad(120,120)}but according to the U.S.
-Dialogue: 2,0:09:08.26,0:09:11.67,英,atg1,0,0,0,,{\fad(120,120)}government, North Korea has already delivered over 1,000
+Dialogue: 1,0:09:04.57,0:09:06.79,中,atg2,0,0,0,,{\fad(120,120)}拉夫罗夫并未承认朝鲜在对俄供应武器
+Dialogue: 2,0:09:06.79,0:09:11.67,英,atg1,0,0,0,,{\fad(120,120)}but according to the U.S. government, North Korea has already delivered over 1,000
+Dialogue: 1,0:09:06.79,0:09:11.67,中,atg2,0,0,0,,{\fad(120,120)}但根据美国政府的说法
 Dialogue: 2,0:09:11.67,0:09:14.81,英,atg1,0,0,0,,{\fad(120,120)}containers of ammunition and military equipment to Russia.
+Dialogue: 1,0:09:11.67,0:09:14.81,中,atg2,0,0,0,,{\fad(120,120)}朝鲜已经向俄罗斯提供了超过1000箱弹药及军需品
+Dialogue: 1,0:09:19.45,0:09:23.72,中,atg2,0,0,0,,{\fad(120,120)}国际上, 朝鲜及俄罗斯都没剩多少盟友
 Dialogue: 2,0:09:19.50,0:09:23.74,英,atg1,0,0,0,,{\fad(120,120)}North Korea and Russia both have very few international allies left.
-Dialogue: 2,0:09:23.74,0:09:27.65,英,atg1,0,0,0,,{\fad(120,120)}While the Taeyong-go tries to be a symbol of power for North Korea,
+Dialogue: 1,0:09:23.72,0:09:27.65,中,atg2,0,0,0,,{\fad(120,120)}当太阳号成为朝鲜的国家象征时, 
+Dialogue: 2,0:09:23.74,0:09:27.65,英,atg1,0,0,0,,{\fad(120,120)}While the Taeyangho tries to be a symbol of power for North Korea,
 Dialogue: 2,0:09:27.65,0:09:31.19,英,atg1,0,0,0,,{\fad(120,120)}it is also a sign of the country's deep isolation.
+Dialogue: 1,0:09:27.65,0:09:31.15,中,atg2,0,0,0,,{\fad(120,120)}它也表示着朝鲜的孤立无援
+Dialogue: 1,0:09:31.15,0:09:36.30,中,atg2,0,0,0,,{\fad(120,120)}普京不久前接受了金正恩的访朝邀请
 Dialogue: 2,0:09:31.19,0:09:36.33,英,atg1,0,0,0,,{\fad(120,120)}Vladimir Putin has accepted an offer to visit Kim Jong-un in return.
+Dialogue: 1,0:09:36.30,0:09:40.36,中,atg2,0,0,0,,{\fad(120,120)}对他, 这或许是个乘上他自己的"鬼魂"专列的好机会
 Dialogue: 2,0:09:36.33,0:09:40.36,英,atg1,0,0,0,,{\fad(120,120)}This would be a good chance for him to take his very own ghost train.
-Dialogue: 2,0:09:40.36,0:09:40.80,英,atg1,0,0,0,,{\fad(120,120)}No Thank you.
