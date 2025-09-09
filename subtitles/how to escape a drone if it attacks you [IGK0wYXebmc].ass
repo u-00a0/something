@@ -197,11 +197,12 @@ Dialogue: 2,0:03:33.77,0:03:35.89,英,atg1,0,0,0,,{\fad(120,120)}We'll take this
 Dialogue: 1,0:03:33.77,0:03:35.89,中,atg2,0,0,0,,{\fad(120,120)}是这样, 
 Dialogue: 2,0:03:37.24,0:03:43.25,英,atg1,0,0,0,,{\fad(120,120)}In 2013, MIT engineering students launched the Perdix system.
 Dialogue: 1,0:03:37.24,0:03:43.25,中,atg2,0,0,0,,{\fad(120,120)}2013年, 麻省理工学院工程系的学生发布了山鹑无人机系统
-Dialogue: 0,0:03:37.24,0:03:48.17,注,atg3,0,0,0,,{\fad(120,120)}参见: 求闻百科 或 中文维基百科 [[山鹑 (无人机)]]
+Dialogue: 0,0:03:37.24,0:04:07.72,注,atg3,0,0,0,,{\fad(120,120)}参见: 求闻百科 或 中文维基百科 [[山鹑 (无人机)]]
 Dialogue: 2,0:03:43.25,0:03:48.17,英,atg1,0,0,0,,{\fad(120,120)}A small, low-cost UAV that can be deployed in large numbers.
 Dialogue: 1,0:03:43.25,0:03:48.17,中,atg2,0,0,0,,{\fad(120,120)}这种无人机小型, 低成本, 可被大规模部署
-Dialogue: 2,0:03:49.67,0:03:55.45,英,atg1,0,0,0,,{\fad(120,120)}They launched 103 Perdix drones from three FA-18 Super Hornets.
-Dialogue: 1,0:03:49.67,0:03:55.45,中,atg2,0,0,0,,
+Dialogue: 0,0:03:45.85,0:04:07.72,注,atg3,0,0,0,,{\fad(120,120)}原视频: File:DOD 103983712-1024x576-1769k.webm
+Dialogue: 2,0:03:50.22,0:03:55.45,英,atg1,0,0,0,,{\fad(120,120)}They launched 103 Perdix drones from three F/A-18 Super Hornets.
+Dialogue: 1,0:03:50.22,0:03:55.45,中,atg2,0,0,0,,{\fad(120,120)}仅仅3架F/A-18就能扔103架山鹑
 Dialogue: 2,0:04:08.65,0:04:11.21,英,atg1,0,0,0,,{\fad(120,120)}The drones operate with a distributed brain,
 Dialogue: 1,0:04:08.65,0:04:11.21,中,atg2,0,0,0,,
 Dialogue: 2,0:04:11.21,0:04:15.33,英,atg1,0,0,0,,{\fad(120,120)}allowing them to change conditions without centralized control.
