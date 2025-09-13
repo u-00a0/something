@@ -203,7 +203,7 @@ Dialogue: 1,0:03:43.25,0:03:48.17,中,atg2,0,0,0,,{\fad(120,120)}这种无人机
 Dialogue: 0,0:03:45.85,0:04:07.72,注,atg3,0,0,0,,{\fad(120,120)}原视频: File:DOD 103983712-1024x576-1769k.webm
 Dialogue: 2,0:03:50.22,0:03:55.45,英,atg1,0,0,0,,{\fad(120,120)}They launched 103 Perdix drones from three F/A-18 Super Hornets.
 Dialogue: 1,0:03:50.22,0:03:55.45,中,atg2,0,0,0,,{\fad(120,120)}仅仅3架F/A-18就能扔103架山鹑
-Dialogue: 2,0:04:08.65,0:04:11.21,英,atg1,0,0,0,,{\fad(120,120)}The drones operate with a distributed brain,
+Dialogue: 2,0:04:06.83,0:04:11.21,英,atg1,0,0,0,,{\fad(120,120)}The drones operate with a distributed brain,
 Dialogue: 1,0:04:08.65,0:04:11.21,中,atg2,0,0,0,,
 Dialogue: 2,0:04:11.21,0:04:15.33,英,atg1,0,0,0,,{\fad(120,120)}allowing them to change conditions without centralized control.
 Dialogue: 1,0:04:11.21,0:04:15.33,中,atg2,0,0,0,,
@@ -303,25 +303,25 @@ Dialogue: 1,0:06:53.09,0:06:56.47,中,atg2,0,0,0,,
 Dialogue: 2,0:06:56.47,0:06:59.79,英,atg1,0,0,0,,{\fad(120,120)}to disrupt the electronic systems of multiple drones simultaneously.
 Dialogue: 1,0:06:56.47,0:06:59.79,中,atg2,0,0,0,,
 Dialogue: 2,0:07:02.31,0:07:04.28,英,atg1,0,0,0,,{\fad(120,120)}Time to get to that bunker.
-Dialogue: 1,0:07:02.31,0:07:04.28,中,atg2,0,0,0,,
+Dialogue: 1,0:07:02.31,0:07:04.28,中,atg2,0,0,0,,{\fad(120,120)}快
 Dialogue: 2,0:07:04.28,0:07:04.81,英,atg1,0,0,0,,{\fad(120,120)}Quickly.
-Dialogue: 1,0:07:04.28,0:07:04.81,中,atg2,0,0,0,,
+Dialogue: 1,0:07:04.28,0:07:04.81,中,atg2,0,0,0,,{\fad(120,120)}该进地堡了
 Dialogue: 2,0:07:06.65,0:07:07.99,英,atg1,0,0,0,,{\fad(120,120)}Do you hear that?
-Dialogue: 1,0:07:06.65,0:07:07.99,中,atg2,0,0,0,,
+Dialogue: 1,0:07:06.65,0:07:07.99,中,atg2,0,0,0,,{\fad(120,120)}你听到轰鸣声了吗?
 Dialogue: 2,0:07:12.73,0:07:15.71,英,atg1,0,0,0,,{\fad(120,120)}That low rumble is the AVIC Jiu Tian.
-Dialogue: 1,0:07:12.73,0:07:15.71,中,atg2,0,0,0,,{\fad(120,120)}那是中航工业制造的"九天"
+Dialogue: 1,0:07:12.73,0:07:15.71,中,atg2,0,0,0,,{\fad(120,120)}那是中航工业的"九天"
 Dialogue: 2,0:07:15.71,0:07:20.30,英,atg1,0,0,0,,{\fad(120,120)}This 10-ton Chinese mothership is designed to carry and deploy drone swarms...
-Dialogue: 1,0:07:15.71,0:07:20.30,中,atg2,0,0,0,,
+Dialogue: 1,0:07:15.71,0:07:20.30,中,atg2,0,0,0,,{\fad(120,120)}这架10吨重的国产无人机"母舰"
 Dialogue: 2,0:07:20.30,0:07:21.90,英,atg1,0,0,0,,{\fad(120,120)}across vast distances.
-Dialogue: 1,0:07:20.30,0:07:21.90,中,atg2,0,0,0,,
+Dialogue: 1,0:07:20.30,0:07:21.90,中,atg2,0,0,0,,{\fad(120,120)}有着长达25米的翼展
 Dialogue: 2,0:07:21.90,0:07:24.30,英,atg1,0,0,0,,{\fad(120,120)}With a 25-metre wingspan...
-Dialogue: 1,0:07:21.90,0:07:24.30,中,atg2,0,0,0,,
+Dialogue: 1,0:07:21.90,0:07:24.30,中,atg2,0,0,0,,{\fad(120,120)}专为远距离投送大量小型无人机设计的巨兽
 Dialogue: 2,0:07:24.30,0:07:27.70,英,atg1,0,0,0,,{\fad(120,120)}it operates at altitudes of 15,000 meters, 
-Dialogue: 1,0:07:24.30,0:07:27.70,中,atg2,0,0,0,,
+Dialogue: 1,0:07:24.30,0:07:27.70,中,atg2,0,0,0,,{\fad(120,120)}能在15000米的高空飞行
 Dialogue: 2,0:07:27.70,0:07:29.94,英,atg1,0,0,0,,{\fad(120,120)}far beyond the range of most air defences.
-Dialogue: 1,0:07:27.70,0:07:29.94,中,atg2,0,0,0,,
+Dialogue: 1,0:07:27.70,0:07:29.94,中,atg2,0,0,0,,{\fad(120,120)}大多数防空手段远不可及
 Dialogue: 2,0:07:31.18,0:07:35.64,英,atg1,0,0,0,,{\fad(120,120)}Its 7,000-kilometre range means it can launch from deep within enemy territory...
-Dialogue: 1,0:07:31.18,0:07:35.64,中,atg2,0,0,0,,
+Dialogue: 1,0:07:31.18,0:07:35.64,中,atg2,0,0,0,,{\fad(120,120)}其长达7000千米的航程
 Dialogue: 2,0:07:35.64,0:07:36.88,英,atg1,0,0,0,,{\fad(120,120)}and still reach its target.
 Dialogue: 1,0:07:35.64,0:07:36.88,中,atg2,0,0,0,,
 Dialogue: 2,0:07:38.00,0:07:40.94,英,atg1,0,0,0,,{\fad(120,120)}Each Jiu Tian carries up to 100 smaller drones...
