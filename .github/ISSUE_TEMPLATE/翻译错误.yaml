@@ -1,0 +1,58 @@
+name: "🐞 翻译错误"
+description: "报告翻译错误"
+title: "[错译] "
+labels:
+  - "Bug"
+  - "错译"
+assignees:
+  - "u-00a0"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        如果可能，请先搜索是否已有相同的报告，然后填写下列信息以帮助我们定位并修复错译。
+  - type: input
+    id: video-id
+    attributes:
+      label: "视频 BV/AV 号"
+      description: "例如：BV1SdbEzZEMj"
+      placeholder: "例如：BV1SdbEzZEMj"
+  - type: textarea
+    id: mistranslation-details
+    attributes:
+      label: "错译详情"
+      description: |
+        请在此处填写：
+        1. 时间点/时间段 (HH:MM:SS)
+        2. 您认为有误的语句（可截图或粘贴原文）
+      placeholder: |
+        1. 00:12:34 - 00:12:40
+        2. “原文/字幕内容”
+    validations:
+      required: true
+  - type: textarea
+    id: why-incorrect
+    attributes:
+      label: "您认为该句有误的理由"
+      description: "请详细描述，避免笼统概括（例如：上下文、语境、原文含义、术语误用等）"
+      placeholder: |
+        解释为什么当前翻译不准确，引用上下文或原文证明会更有帮助。
+    validations:
+      required: true
+  - type: textarea
+    id: suggested-translation
+    attributes:
+      label: "(选填) 您认为该句的正确翻译"
+      description: "如果你能提供更合适的翻译，请填写（可选）"
+      placeholder: "建议的翻译文本"
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: "其他信息（可选）"
+      description: "附加链接、参考资料等"
+      placeholder: "例如：截图链接 / 参考资料链接"
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        提交后请尽量附上相关截图、原文片段或最小可复现场景，这可以帮助我们更快定位和修复问题。
