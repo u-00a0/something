@@ -7,6 +7,7 @@
 - 字幕：[subtitles](subtitles/)
 - 旧版字幕：[subtitles/old_versions](subtitles/old_versions)
 - 模板：[template](template/)
+- 素材 [assets](assets/)
 ### 文件命名规则
 - 字幕：原作英文名-版本（如有）-制作完毕日期-样式（如有）.扩展名  
   示例：BattleplanArclight-v3-250818-Nixie.ass
