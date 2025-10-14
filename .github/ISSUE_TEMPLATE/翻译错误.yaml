@@ -17,6 +17,8 @@ body:
       label: "视频 BV/AV 号"
       description: "例如：BV1SdbEzZEMj"
       placeholder: "例如：BV1SdbEzZEMj"
+    validations:
+      required: true
   - type: textarea
     id: mistranslation-details
     attributes:
