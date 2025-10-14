@@ -53,8 +53,3 @@ body:
       label: "其他信息（可选）"
       description: "附加链接、参考资料等"
       placeholder: "例如：截图链接 / 参考资料链接"
-  - type: markdown
-    attributes:
-      value: |
-        ---
-        提交后请尽量附上相关截图、原文片段或最小可复现场景，这可以帮助我们更快定位和修复问题。
