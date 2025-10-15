@@ -202,31 +202,31 @@ Dialogue: 2,0:03:43.25,0:03:48.17,英,atg1,0,0,0,,{\fad(120,120)}A small, low-co
 Dialogue: 1,0:03:43.25,0:03:48.17,中,atg2,0,0,0,,{\fad(120,120)}这种无人机小型, 低成本, 可被大规模部署
 Dialogue: 0,0:03:45.85,0:04:07.72,注,atg3,0,0,0,,{\fad(120,120)}原视频: File:DOD 103983712-1024x576-1769k.webm
 Dialogue: 2,0:03:50.22,0:03:55.45,英,atg1,0,0,0,,{\fad(120,120)}They launched 103 Perdix drones from three F/A-18 Super Hornets.
-Dialogue: 1,0:03:50.22,0:03:55.45,中,atg2,0,0,0,,{\fad(120,120)}仅仅3架F/A-18就能扔103架山鹑
-Dialogue: 2,0:04:06.83,0:04:11.21,英,atg1,0,0,0,,{\fad(120,120)}The drones operate with a distributed brain,
-Dialogue: 1,0:04:08.65,0:04:11.21,中,atg2,0,0,0,,
+Dialogue: 1,0:03:50.22,0:03:55.45,中,atg2,0,0,0,,{\fad(120,120)}仅仅3架F/A-18就能扔103架山鹑，甩籽这一块
+Dialogue: 2,0:04:08.65,0:04:11.21,英,atg1,0,0,0,,{\fad(120,120)}The drones operate with a distributed brain,
+Dialogue: 1,0:04:08.65,0:04:11.21,中,atg2,0,0,0,,{\fad(120,120)}山鹑无人机系统基于分体式“大脑”运作
 Dialogue: 2,0:04:11.21,0:04:15.33,英,atg1,0,0,0,,{\fad(120,120)}allowing them to change conditions without centralized control.
-Dialogue: 1,0:04:11.21,0:04:15.33,中,atg2,0,0,0,,
-Dialogue: 2,0:04:15.33,0:04:18.06,英,atg1,0,0,0,,{\fad(120,120)}The Perdix drones share data,
-Dialogue: 1,0:04:15.33,0:04:18.06,中,atg2,0,0,0,,
+Dialogue: 1,0:04:11.21,0:04:15.33,中,atg2,0,0,0,,{\fad(120,120)}这使它无需中央控制即可改变态势
+Dialogue: 2,0:04:15.80,0:04:18.06,英,atg1,0,0,0,,{\fad(120,120)}The Perdix drones share data,
+Dialogue: 1,0:04:15.80,0:04:18.06,中,atg2,0,0,0,,{\fad(120,120)}系统中没有“总指挥”
 Dialogue: 2,0:04:18.06,0:04:19.29,英,atg1,0,0,0,,{\fad(120,120)}have no single leader,
-Dialogue: 1,0:04:18.06,0:04:19.29,中,atg2,0,0,0,,
+Dialogue: 1,0:04:18.06,0:04:19.29,中,atg2,0,0,0,,{\fad(120,120)}相反的，每台无人机会之间共享数据
 Dialogue: 2,0:04:19.29,0:04:22.51,英,atg1,0,0,0,,{\fad(120,120)}and reconfigure when drones are added or removed.
-Dialogue: 1,0:04:19.29,0:04:22.51,中,atg2,0,0,0,,
-Dialogue: 2,0:04:23.99,0:04:31.77,英,atg1,0,0,0,,{\fad(120,120)}By 2015, the Office of Naval Research revealed a low-cost UAV swarming technology,
-Dialogue: 1,0:04:23.99,0:04:31.77,中,atg2,0,0,0,,
+Dialogue: 1,0:04:19.29,0:04:22.51,中,atg2,0,0,0,,{\fad(120,120)}并在机队规模变化时自动重新配置
+Dialogue: 2,0:04:24.27,0:04:31.77,英,atg1,0,0,0,,{\fad(120,120)}By 2015, the Office of Naval Research revealed a low-cost UAV swarming technology,
+Dialogue: 1,0:04:24.27,0:04:31.77,中,atg2,0,0,0,,{\fad(120,120)}2015年，美国海军研究办公室公布了一种低成本无人机集群技术
 Dialogue: 2,0:04:31.77,0:04:34.13,英,atg1,0,0,0,,{\fad(120,120)}also known as LOCUST.
-Dialogue: 1,0:04:31.77,0:04:34.13,中,atg2,0,0,0,,
+Dialogue: 1,0:04:31.77,0:04:34.13,中,atg2,0,0,0,,{\fad(120,120)}AKA 蝗虫
 Dialogue: 2,0:04:34.13,0:04:37.50,英,atg1,0,0,0,,{\fad(120,120)}A tube-based launcher for releasing small,
-Dialogue: 1,0:04:34.13,0:04:37.50,中,atg2,0,0,0,,
+Dialogue: 1,0:04:34.13,0:04:37.50,中,atg2,0,0,0,,{\fad(120,120)}旨在用管状发射器
 Dialogue: 2,0:04:37.50,0:04:40.53,英,atg1,0,0,0,,{\fad(120,120)}unmanned autonomous vehicles in rapid succession.
-Dialogue: 1,0:04:37.50,0:04:40.53,中,atg2,0,0,0,,
+Dialogue: 1,0:04:37.50,0:04:40.53,中,atg2,0,0,0,,{\fad(120,120)}连续快速部署大量自主飞行无人机
 Dialogue: 2,0:04:47.92,0:04:52.24,英,atg1,0,0,0,,{\fad(120,120)}The LOCUST program was the precursor for drone swarms.
-Dialogue: 1,0:04:47.92,0:04:52.24,中,atg2,0,0,0,,
-Dialogue: 2,0:04:52.24,0:04:58.01,英,atg1,0,0,0,,{\fad(120,120)}In theory, hundreds of small autonomous UAVs could cost less than a single tactical
-Dialogue: 1,0:04:52.24,0:04:58.01,中,atg2,0,0,0,,
-Dialogue: 2,0:04:58.01,0:05:02.10,英,atg1,0,0,0,,{\fad(120,120)}aircraft, while also being more effective and robust.
-Dialogue: 1,0:04:58.01,0:05:02.10,中,atg2,0,0,0,,
+Dialogue: 1,0:04:47.92,0:04:52.24,中,atg2,0,0,0,,{\fad(120,120)}“蝗虫”项目是无人机集群技术的先驱
+Dialogue: 2,0:04:52.24,0:04:58.56,英,atg1,0,0,0,,{\fad(120,120)}In theory, hundreds of small autonomous UAVs could cost less than a single tactical aircraft,
+Dialogue: 1,0:04:52.24,0:04:58.56,中,atg2,0,0,0,,{\fad(120,120)}理论上，数百架自动化无人机加起来都比不过一架战术飞机贵
+Dialogue: 2,0:04:59.08,0:05:02.10,英,atg1,0,0,0,,{\fad(120,120)}while also being more effective and robust.
+Dialogue: 1,0:04:59.08,0:05:02.10,中,atg2,0,0,0,,{\fad(120,120)}实际效果与可靠性还要比后者来的好
 Dialogue: 2,0:05:02.10,0:05:05.08,英,atg1,0,0,0,,{\fad(120,120)}Unmanned systems were force multipliers.
 Dialogue: 1,0:05:02.10,0:05:05.08,中,atg2,0,0,0,,
 Dialogue: 2,0:05:05.08,0:05:06.96,英,atg1,0,0,0,,{\fad(120,120)}One agent could, in theory,
@@ -237,8 +237,8 @@ Dialogue: 2,0:05:09.96,0:05:12.07,英,atg1,0,0,0,,{\fad(120,120)}A swarm could a
 Dialogue: 1,0:05:09.96,0:05:12.07,中,atg2,0,0,0,,
 Dialogue: 2,0:05:13.13,0:05:15.87,英,atg1,0,0,0,,{\fad(120,120)}They operate most commonly in waves.
 Dialogue: 1,0:05:13.13,0:05:15.87,中,atg2,0,0,0,,
-Dialogue: 2,0:05:19.47,0:05:24.30,英,atg1,0,0,0,,{\fad(120,120)}The surveillance wave gathers information across large areas.
-Dialogue: 1,0:05:19.47,0:05:24.30,中,atg2,0,0,0,,
+Dialogue: 2,0:05:20.12,0:05:24.30,英,atg1,0,0,0,,{\fad(120,120)}The surveillance wave gathers information across large areas.
+Dialogue: 1,0:05:20.12,0:05:24.30,中,atg2,0,0,0,,
 Dialogue: 2,0:05:24.30,0:05:26.99,英,atg1,0,0,0,,{\fad(120,120)}This involves mapping the environment,
 Dialogue: 1,0:05:24.30,0:05:26.99,中,atg2,0,0,0,,
 Dialogue: 2,0:05:26.99,0:05:30.01,英,atg1,0,0,0,,{\fad(120,120)}identifying and location potential targets,
